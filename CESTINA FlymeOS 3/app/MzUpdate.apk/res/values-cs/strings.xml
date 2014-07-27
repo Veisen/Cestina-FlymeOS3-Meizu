@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloudService</string>
+    <string name="updatetitle">Je dostupných %d aktualizací</string>
+    <string name="doupdate">Jsou dostupné aktualizace</string>
+    <string name="updatetip">Bylo nalezeno %d aktualizací</string>
+    <string name="numRefresh">" aplikací k aktualizaci"</string>
+    <string name="FirmwareUpgrade">Aktualizace systému</string>
+    <string name="ExistNewFirmwareToUpdateVer">Je dostupná aktualizace systému</string>
+    <string name="LatestVersion">Poslední verze</string>
+    <string name="Version">Verze</string>
+    <string name="smstip">Při první aktivaci je nutné odeslat SMS. Tato SMS zpráva je zpoplatněna podle Vašeho tarifu.</string>
+    <string name="active">Aktivní</string>
+    <string name="canceltip">Zrušit</string>
+    <string name="activesmstip">Aktivace selhala</string>
+    <string name="activesimtip">Karta SIM není podporována</string>
+    <string name="nosimtip">No sim card inside the machine</string>
+    <string name="systemUpdate">Aktualizace systému</string>
+    <string name="flymeUpdate">Aktualizace Flyme</string>
+    <string name="findPhoneUpdate">Aktualizace hledání telefonu</string>
+    <string name="cloudUpdate">Aktualizace CloudService</string>
+    <string name="size">Velikost</string>
+</resources>

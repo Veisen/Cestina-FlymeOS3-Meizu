@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="other">Před %d týdny</item>
+        <item quantity="one">Před %d týdnem</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">min</item>
+        <item quantity="one">minuta</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d letech automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý rok automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d letech automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý rok automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d let&amp;lt;/duration> &amp;lt;price>vždy po %2$d letech automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d let&amp;lt;/duration> &amp;lt;price>každý rok automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d let&amp;lt;/duration> &amp;lt;price>vždy po %2$d letech automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d let&amp;lt;/duration> &amp;lt;price>každý rok účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d měsících automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý měsíc automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d měsících automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý měsíc automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d měsíců&amp;lt;/duration> &amp;lt;price>vždy po %2$d měsících automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d měsíců&amp;lt;/duration> &amp;lt;price>každý měsíc automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d měsíců&amp;lt;/duration> vždy po %2$d měsících automaticky účtován poplatek &amp;lt;price>%1$s plus případná příslušná daň&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d měsíců&amp;lt;/duration> &amp;lt;price>každý měsíc automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d dnech automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý den automaticky účtován poplatek %1$s&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>vždy po %2$d dnech automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+        <item quantity="one">Od &amp;lt;start_time>%3$s&amp;lt;/start_time> vám bude &amp;lt;price>každý den automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>, dokud předplatné nezrušíte.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d dní&amp;lt;/duration> &amp;lt;price>vždy po %2$d dnech automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d dní&amp;lt;/duration> &amp;lt;price>každý den automaticky účtován poplatek %1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d dní&amp;lt;/duration> &amp;lt;price>vždy po %2$d dnech automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>.</item>
+        <item quantity="one">Od &amp;lt;start_time>%4$s&amp;lt;/start_time> vám bude po dobu &amp;lt;duration>%3$d dní&amp;lt;/duration> &amp;lt;price>každý den automaticky účtován poplatek %1$s plus případná příslušná daň&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">Celkem hráčů: %1$d</item>
+        <item quantity="one">Hráči</item>
+    </plurals>
+    <plurals name="games_select_players_del_autopick_players">
+        <item quantity="other">Odstranit hráče: %1$d</item>
+        <item quantity="one">Odstranit %1$d hráče</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Můžete pozvat ještě %1$d</item>
+        <item quantity="one">Můžete pozvat ještě %1$d</item>
+    </plurals>
+    <plurals name="games_waiting_room_waited_start_early">
+        <item quantity="other">%1$d z %2$d hráčů se ještě nepřipojilo. Chcete začít bez nich?</item>
+        <item quantity="one">%1$d z %2$d hráčů se ještě nepřipojil. Chcete začít bez něj?</item>
+    </plurals>
+    <plurals name="games_waiting_room_start_with">
+        <item quantity="other">S %1$d hráči</item>
+        <item quantity="one">S %1$d hráčem</item>
+    </plurals>
+    <plurals name="games_waiting_room_players_ready">
+        <item quantity="other">Připravení hráči: %1$d</item>
+        <item quantity="one">Připravení hráči: %1$d</item>
+    </plurals>
+    <plurals name="games_notification_new_activity">
+        <item quantity="other">Počet nových herních akcí: %1$d</item>
+        <item quantity="one">Máte jednu nevyřízenou herní akci</item>
+    </plurals>
+    <plurals name="games_notification_non_acl_summary">
+        <item quantity="other">Další: %1$d</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">Celkem hráčů: %1$s</item>
+        <item quantity="one">%1$s hráč</item>
+    </plurals>
+    <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="other">Počet mých tahů: %1$d</item>
+        <item quantity="one">Jsem na tahu</item>
+    </plurals>
+    <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="other">Počet hráčů na tahu: %1$d</item>
+        <item quantity="one">Počet hráčů na tahu: %1$d</item>
+    </plurals>
+    <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="other">Počet pozvánek: %1$d</item>
+        <item quantity="one">Počet pozvánek: %1$d</item>
+    </plurals>
+    <plurals name="games_inbox_matches_toast_message">
+        <item quantity="other">Počet probíhajících zápasů: %1$d</item>
+        <item quantity="one">Počet probíhajících zápasů: %1$d</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_gift_count_format">
+        <item quantity="other">Počet dárků: %1$d</item>
+        <item quantity="one">%1$d dárek</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_wish_count_format">
+        <item quantity="other">Počet žádostí: %1$d</item>
+        <item quantity="one">%1$d žádost</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_player_names_html">
+        <item quantity="other">"Od hráče &amp;lt;b>%1$s&amp;lt;/b>
+a dalších"</item>
+        <item quantity="one">Od hráče &amp;lt;b>%1$s&amp;lt;/b></item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d den</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s uživatelů</item>
+        <item quantity="one">%1$s člověk</item>
+        <item quantity="two">%1$s uživatelé</item>
+        <item quantity="few">%1$s uživatelé</item>
+        <item quantity="many">%1$s uživatelů</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">z prohlížeče zařízení %1$s v místě %2$s před méně než %s minutami</item>
+        <item quantity="one">z prohlížeče zařízení %1$s v místě %2$s před méně než %s minutou</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">z místa %1$s před méně než %2$s minutami</item>
+        <item quantity="one">z místa %1$s před méně než %2$s minutou</item>
+    </plurals>
+</resources>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Calculator-->
+  <string name="app_name">Kalkulačka</string>
+  <!--Original value: Error-->
+  <string name="error">Chyba</string>
+  <!--Original value: 0-->
+  <string name="digit0">0</string>
+  <!--Original value: 1-->
+  <string name="digit1">1</string>
+  <!--Original value: 2-->
+  <string name="digit2">2</string>
+  <!--Original value: 3-->
+  <string name="digit3">3</string>
+  <!--Original value: 4-->
+  <string name="digit4">4</string>
+  <!--Original value: 5-->
+  <string name="digit5">5</string>
+  <!--Original value: 6-->
+  <string name="digit6">6</string>
+  <!--Original value: 7-->
+  <string name="digit7">7</string>
+  <!--Original value: 8-->
+  <string name="digit8">8</string>
+  <!--Original value: 9-->
+  <string name="digit9">9</string>
+  <!--Original value: ÷-->
+  <string name="div">÷</string>
+  <!--Original value: ×-->
+  <string name="mul">×</string>
+  <!--Original value: +-->
+  <string name="plus">+</string>
+  <!--Original value: −-->
+  <string name="minus">−</string>
+  <!--Original value: .-->
+  <string name="dot">.</string>
+  <!--Original value: =-->
+  <string name="equal">=</string>
+  <!--Original value: ↓-->
+  <string name="enter">↓</string>
+  <!--Original value: sin(-->
+  <string name="sin">sin(</string>
+  <!--Original value: cos(-->
+  <string name="cos">cos(</string>
+  <!--Original value: tan(-->
+  <string name="tan">tan(</string>
+  <!--Original value: sinh(-->
+  <string name="sinh">sinh(</string>
+  <!--Original value: cosh(-->
+  <string name="cosh">cosh(</string>
+  <!--Original value: tanh(-->
+  <string name="tanh">tanh(</string>
+  <!--Original value: rand(-->
+  <string name="rand">rand(</string>
+  <!--Original value: e^(-->
+  <string name="ex">e^(</string>
+  <!--Original value: π-->
+  <string name="pi">π</string>
+  <!--Original value: e-->
+  <string name="e">e</string>
+  <!--Original value: ln(-->
+  <string name="ln">ln(</string>
+  <!--Original value: log(-->
+  <string name="lg">log(</string>
+  <!--Original value: (-->
+  <string name="leftParen">(</string>
+  <!--Original value: )-->
+  <string name="rightParen">)</string>
+  <!--Original value: √-->
+  <string name="sqrt">√</string>
+  <!--Original value: ^-->
+  <string name="power">^</string>
+  <!--Original value: !-->
+  <string name="factorial">!</string>
+  <!--Original value: %-->
+  <string name="percent">%</string>
+  <!--Original value: Copy-->
+  <string name="copy">Kopírovat</string>
+  <!--Original value: Paste-->
+  <string name="paste">Vložit</string>
+</resources>

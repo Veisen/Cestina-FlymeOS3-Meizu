@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Calendar-->
+  <string name="app_label">Kalendář</string>
+  <!--Original value: What-->
+  <string name="what_label">Co</string>
+  <!--Original value: Where-->
+  <string name="where_label">Kde</string>
+  <!--Original value: When-->
+  <string name="when_label">Kdy</string>
+  <!--Original value: Time zone-->
+  <string name="timezone_label">Časové pásmo</string>
+  <!--Original value: Guests-->
+  <string name="attendees_label">Hosté</string>
+  <!--Original value: Today-->
+  <string name="today">Dnes</string>
+  <!--Original value: Tomorrow-->
+  <string name="tomorrow">Zítra</string>
+  <!--Original value: All day-->
+  <string name="allday">Celý den</string>
+  <!--Original value: Today at %s-->
+  <string name="today_at_time_fmt">Dnes v %s</string>
+  <!--Original value: "%s's birthday"-->
+  <string name="contacts_string">"%s narozeniny"</string>
+  <!--Original value: Tomorrow at %s-->
+  <string name="tomorrow_at_time_fmt">Zítra v %s</string>
+  <!--Original value: %s %s-->
+  <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <!--Original value: Repetition-->
+  <string name="repeats_label">Opakování</string>
+  <!--Original value: (No title)-->
+  <string name="no_title_label">(bez názvu)</string>
+  <!--Original value: Refresh-->
+  <string name="calendar_refresh">Aktualizovat</string>
+  <!--Original value: Show day-->
+  <string name="show_day_view">Zobrazit den</string>
+  <!--Original value: Agenda-->
+  <string name="agenda_view">Agenda</string>
+  <!--Original value: Day-->
+  <string name="day_view">Den</string>
+  <!--Original value: Week-->
+  <string name="week_view">Týden</string>
+  <!--Original value: Month-->
+  <string name="month_view">Měsíc</string>
+  <!--Original value: View event-->
+  <string name="event_view">Zobrazit událost</string>
+  <!--Original value: New event-->
+  <string name="event_create">Nová událost</string>
+  <!--Original value: Edit event-->
+  <string name="event_edit">Upravit událost</string>
+  <!--Original value: Delete event-->
+  <string name="event_delete">Smazat událost</string>
+  <!--Original value: Today-->
+  <string name="goto_today">Dnes</string>
+  <!--Original value: Settings-->
+  <string name="menu_preferences">Nastavení</string>
+  <!--Original value: Calendars to display-->
+  <string name="menu_select_visible_calendars">Kalendáře k zobrazení</string>
+  <!--Original value: Search-->
+  <string name="search">Hledat</string>
+  <!--Original value: Hide controls-->
+  <string name="hide_controls">Skrýt ovládací prvky</string>
+  <!--Original value: Show controls-->
+  <string name="show_controls">Zobrazit ovládací prvky</string>
+  <!--Original value: Calendars to display-->
+  <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
+  <!--Original value: synced-->
+  <string name="synced">synchronizován</string>
+  <!--Original value: not synced-->
+  <string name="not_synced">není synchronizován</string>
+  <!--Original value: "This account isn't being synced so your calendars may not be up-to-date."-->
+  <string name="acct_not_synced">Tento účet není synchronizován, proto kalendáře nemusí být aktuální.</string>
+  <!--Original value: Accounts and sync-->
+  <string name="accounts">Účty a synchronizace</string>
+  <!--Original value: Calendars to sync-->
+  <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
+  <!--Original value: Calendars to sync-->
+  <string name="select_synced_calendars_button">Kalendáře, které se mají synchronizovat</string>
+  <!--Original value: Content-->
+  <string name="hint_what">Název události</string>
+  <!--Original value: Location-->
+  <string name="hint_where">Místo</string>
+  <!--Original value: Description-->
+  <string name="hint_description">Popis</string>
+  <!--Original value: Guests-->
+  <string name="hint_attendees">Hosté</string>
+  <!--Original value: Event created-->
+  <string name="creating_event">Událost byla vytvořena.</string>
+  <!--Original value: Event saved-->
+  <string name="saving_event">Událost byla uložena.</string>
+  <!--Original value: Unable to create an empty event-->
+  <string name="empty_event">Prázdná událost se nevytvořila</string>
+  <!--Original value: Invitations will be sent-->
+  <string name="creating_event_with_guest">Pozvánky byly odeslány.</string>
+  <!--Original value: Update will be sent.-->
+  <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
+  <!--Original value: Calendar notifications-->
+  <string name="alert_title">Upozornění kalendáře</string>
+  <!--Original value: Details-->
+  <string name="event_info_title">Zobrazit událost</string>
+  <!--Original value: Calendar invitations-->
+  <string name="event_info_title_invite">Pozvánka na schůzku</string>
+  <!--Original value: End-->
+  <string name="edit_event_to_label">Do</string>
+  <!--Original value: Start-->
+  <string name="edit_event_from_label">Od</string>
+  <!--Original value: All day-->
+  <string name="edit_event_all_day_label">Celý den</string>
+  <!--Original value: Calendar-->
+  <string name="edit_event_calendar_label">Kalendář</string>
+  <!--Original value: Show all-->
+  <string name="edit_event_show_all">Zobrazit vše</string>
+  <!--Original value: Description-->
+  <string name="description_label">Popis</string>
+  <!--Original value: Show my status as-->
+  <string name="presence_label">Můj stav</string>
+  <!--Original value: Privacy-->
+  <string name="privacy_label">Soukromá/Veřejná</string>
+  <!--Original value: Add reminder-->
+  <string name="reminders_label">Přidat připomenutí</string>
+  <!--Original value: No calendars-->
+  <string name="no_syncable_calendars">Žádné kalendáře</string>
+  <!--Original value: Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.-->
+  <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se klepněte na tlačítko Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
+  <!--Original value: "Calendar works better with a Google Account.
+
+• Access it from any web browser
+• Back up your events securely"-->
+  <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n • Přístup z jakéhokoliv webového prohlížeče\n • Bezpečné zálohování událostí"</string>
+  <!--Original value: Add account-->
+  <string name="add_account">Přidat účet</string>
+  <!--Original value: Calendar:-->
+  <string name="view_event_calendar_label">Kalendář:</string>
+  <!--Original value: Organizer-->
+  <string name="view_event_organizer_label">Organizátor:</string>
+  <!--Original value: Attending?-->
+  <string name="view_event_response_label">Zúčastníte se?</string>
+  <!--Original value: Yes-->
+  <string name="response_yes">Ano</string>
+  <!--Original value: Maybe-->
+  <string name="response_maybe">Možná</string>
+  <!--Original value: No-->
+  <string name="response_no">Ne</string>
+  <!--Original value: Send emails to guests-->
+  <string name="email_guests_label">Odpověď účastníkům</string>
+  <!--Original value: Send email to organizer-->
+  <string name="email_organizer_label">Organizér e-mailů</string>
+  <!--Original value: Email with-->
+  <string name="email_picker_label">E-mail od</string>
+  <!--Original value: "Re: "-->
+  <string name="email_subject_prefix">"Re: "</string>
+  <!--Original value: No event is found.-->
+  <string name="event_not_found">Událost nenalezena.</string>
+  <!--Original value: Quick response-->
+  <string name="quick_response_settings">Rychlá odpověď</string>
+  <!--Original value: Edit default response when emailing guests-->
+  <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání e-mailu</string>
+  <!--Original value: Edit quick response-->
+  <string name="quick_response_settings_title">Upravit rychlé odpovědi</string>
+  <!--Original value: Quick response-->
+  <string name="quick_response_settings_edit_title">Rychlá odpověď</string>
+  <!--Original value: Choose quick response-->
+  <string name="quick_response_dialog_title">Vyber vlastní odpověď</string>
+  <!--Original value: Failed to find an email program-->
+  <string name="quick_response_email_failed">Není možné najít aplikaci E-mail</string>
+  <!--Original value: Write a message-->
+  <string name="quick_response_custom_msg">Vlastní odpověď...</string>
+  <!--Original value: Organizer:-->
+  <string name="event_info_organizer">Organizátor:</string>
+  <!--Original value: Reminders-->
+  <string name="event_info_reminders_label">Připomenutí</string>
+  <!--Original value: %1$s Today-->
+  <string name="agenda_today">Dnes, %1$s</string>
+  <!--Original value: YESTERDAY, %1$s-->
+  <string name="agenda_yesterday">VČERA, %1$s</string>
+  <!--Original value: TOMORROW, %1$s-->
+  <string name="agenda_tomorrow">ZÍTRA, %1$s</string>
+  <!--Original value: Loading…-->
+  <string name="loading">Načítání...</string>
+  <!--Original value: Tap and view events before %1$s-->
+  <string name="show_older_events">Dotykem zobrazíte události před obdobím %1$s</string>
+  <!--Original value: Tap and view events after %1$s-->
+  <string name="show_newer_events">Dotykem zobrazíte události po období %1$s</string>
+  <!--Original value: Search my calendars-->
+  <string name="search_title">Hledat v mých kalendářích</string>
+  <!--Original value: Details-->
+  <string name="edit_event_label">Podrobnosti</string>
+  <!--Original value: Edit-->
+  <string name="edit_label">Upravit</string>
+  <!--Original value: Delete-->
+  <string name="delete_label">Smazat</string>
+  <!--Original value: Done-->
+  <string name="save_label">Uložit</string>
+  <!--Original value: Cancel-->
+  <string name="discard_label">Zrušit</string>
+  <!--Original value: Snooze all-->
+  <string name="snooze_all_label">Odložit vše</string>
+  <!--Original value: Dismiss all-->
+  <string name="dismiss_all_label">Zavřít vše</string>
+  <!--Original value: Stop reminder-->
+  <string name="snooze_label">Ztlumit</string>
+  <!--Original value: One-time event-->
+  <string name="does_not_repeat">Jednorázová událost</string>
+  <!--Original value: Daily-->
+  <string name="daily">Denně</string>
+  <!--Original value: Every weekday-->
+  <string name="every_weekday">Každý pracovní den (po–pá)</string>
+  <!--Original value: Weekly-->
+  <string name="weekly">Týdně (vždy %s)</string>
+  <!--Original value: Weekly (every %s)-->
+  <string name="weekly_with_days">Týdenní (každý %s)</string>
+  <!--Original value: Monthly（Monthly %1$s%2$s）-->
+  <string name="monthly_on_day_count">Měsíčně (vždy %1$s %2$s)</string>
+  <!--Original value: Monthly-->
+  <string name="monthly">Měsíčně</string>
+  <!--Original value: Yearly-->
+  <string name="yearly_plain">Ročně</string>
+  <!--Original value: Monthly-->
+  <string name="monthly_on_day">Měsíčně (%s. den)</string>
+  <!--Original value: Yearly-->
+  <string name="yearly">Ročně (%s)</string>
+  <!--Original value: "Custom (can't customize on phone)"-->
+  <string name="custom">Vlastní (nelze upravit v telefonu)</string>
+  <!--Original value: Change only this event-->
+  <string name="modify_event">Změnit pouze tuto událost</string>
+  <!--Original value: Change all events in the series-->
+  <string name="modify_all">Změnit všechny události v sérii</string>
+  <!--Original value: Change this and all future events-->
+  <string name="modify_all_following">Změnit tuto událost a všechny budoucí</string>
+  <!--Original value: New event-->
+  <string name="new_event_dialog_label">Nová událost</string>
+  <!--Original value: New event-->
+  <string name="new_event_dialog_option">Nová událost</string>
+  <!--Original value: Delete this event?-->
+  <string name="delete_this_event_title">Smazat tuto událost?</string>
+  <!--Original value: Including cycle event in the future-->
+  <string name="delete_this_and_following_event">Včetně případě cyklu v budoucnosti</string>
+  <!--Original value: Delete %s?-->
+  <string name="delete_recurring_event_title">Smazat %s?</string>
+  <!--Original value: Change response-->
+  <string name="change_response_title">Změnit odpověď</string>
+  <!--Original value: General settings-->
+  <string name="menu_general_preferences">Obecná nastavení</string>
+  <!--Original value: About Calendar-->
+  <string name="menu_about_preferences">O Kalendáři</string>
+  <!--Original value: Settings-->
+  <string name="preferences_title">Nastavení</string>
+  <!--Original value: Calendar view setting-->
+  <string name="preferences_general_title">Nastavení zobrazení kalendáře</string>
+  <!--Original value: Reminder settings-->
+  <string name="preferences_reminder_title">Nastavení připomenutí</string>
+  <!--Original value: Hide declined events-->
+  <string name="preferences_hide_declined_title">Skrýt odmítnuté události</string>
+  <!--Original value: Week starts on-->
+  <string name="preferences_week_start_day_title">Začátek týdne</string>
+  <!--Original value: Week starts on-->
+  <string name="preferences_week_start_day_dialog">Začátek týdne</string>
+  <!--Original value: -1-->
+  <string name="preferences_week_start_day_default">-1</string>
+  <!--Original value: Clear search history-->
+  <string name="preferences_clear_search_history_title">Vymazat historii vyhledávání</string>
+  <!--Original value: "Remove all the searches you've performed"-->
+  <string name="preferences_clear_search_history_summary">Odstranit všechna provedená vyhledávání</string>
+  <!--Original value: Search history cleared.-->
+  <string name="search_history_cleared">Historie vyhledávání vymazána.</string>
+  <!--Original value: Notifications-->
+  <string name="preferences_alerts_title">Upozornění</string>
+  <!--Original value: Vibrate-->
+  <string name="preferences_alerts_vibrateWhen_title">Vibrace</string>
+  <!--Original value: Choose ringtone-->
+  <string name="preferences_alerts_ringtone_title">Zvonění</string>
+  <!--Original value: Pop-up notification-->
+  <string name="preferences_alerts_popup_title">Vyskakovací oznámení</string>
+  <!--Original value: Default reminder time-->
+  <string name="preferences_default_reminder_title">Výchozí čas připomenutí</string>
+  <!--Original value: Default reminder time-->
+  <string name="preferences_default_reminder_dialog">Výchozí čas připomenutí</string>
+  <!--Original value: 10-->
+  <string name="preferences_default_reminder_default">10</string>
+  <!--Original value: Use home time zone-->
+  <string name="preferences_use_home_tz_title">Použít domácí čas</string>
+  <!--Original value: Displays calendars and event times in your home time zone when traveling-->
+  <string name="preferences_use_home_tz_descrip">Kalendáře a události se vždy zobrazí v domovském čas. pásmu</string>
+  <!--Original value: Home time zone-->
+  <string name="preferences_home_tz_title">Domovské č. pásmo</string>
+  <!--Original value: America/Los_Angeles-->
+  <string name="preferences_home_tz_default">Europe/Prague</string>
+  <!--Original value: Show week number-->
+  <string name="preferences_show_week_num_title">Zobrazovat číslo týdne</string>
+  <!--Original value: About-->
+  <string name="preferences_about_title">O aplikaci</string>
+  <!--Original value: Build version-->
+  <string name="preferences_build_version">Verze sestavení</string>
+  <!--Original value: never-->
+  <string name="prefDefault_alerts_vibrateWhen">nikdy</string>
+  <!--Original value: always-->
+  <string name="prefDefault_alerts_vibrate_true">vždy</string>
+  <!--Original value: never-->
+  <string name="prefDefault_alerts_vibrate_false">nikdy</string>
+  <!--Original value: Vibrate-->
+  <string name="prefDialogTitle_vibrateWhen">Vibrace</string>
+  <!--Original value: Calendar (4x2)-->
+  <string name="gadget_title">Kalendář</string>
+  <!--Original value: No recent event-->
+  <string name="gadget_no_events">Žádné nadcházející události</string>
+  <!--Original value: TARDIS-->
+  <string name="tardis">TARDIS</string>
+  <!--Original value: Send database-->
+  <string name="copy_db">Odeslat databázi</string>
+  <!--Original value: Searching %s…-->
+  <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
+  <!--Original value: Remove attendee-->
+  <string name="accessibility_remove_attendee">Odebrat účastníka</string>
+  <!--Original value: Start date-->
+  <string name="accessibility_pick_start_date">Datum zahájení</string>
+  <!--Original value: Start time-->
+  <string name="accessibility_pick_start_time">Čas zahájení</string>
+  <!--Original value: End date-->
+  <string name="accessibility_pick_end_date">Datum ukončení</string>
+  <!--Original value: End time-->
+  <string name="accessibility_pick_end_time">Čas ukončení</string>
+  <!--Original value: Time zone-->
+  <string name="accessibility_pick_time_zone">Časové pásmo</string>
+  <!--Original value: Add reminder-->
+  <string name="accessibility_add_reminder">Přidat připomenutí</string>
+  <!--Original value: Remove reminder-->
+  <string name="accessibility_remove_reminder">Odebrat připomenutí</string>
+  <!--Original value: Add attendee-->
+  <string name="accessibility_add_attendee">Přidat účastníka</string>
+  <!--Original value: Sync calendar-->
+  <string name="accessibility_sync_cal">Synchronizovat kalendář</string>
+  <!--Original value: All day event-->
+  <string name="accessibility_all_day">Celodenní událost</string>
+  <!--Original value: Repetition-->
+  <string name="accessibility_repeats">Opakování</string>
+  <!--Original value: Reminder time-->
+  <string name="accessibility_reminder_time">Čas připomenutí</string>
+  <!--Original value: Reminder type-->
+  <string name="accessibility_reminder_type">Typ připomenutí</string>
+  <!--Original value: Show me as-->
+  <string name="accessibility_reminder_showmeas">Zobrazit mě jako</string>
+  <!--Original value: Privacy-->
+  <string name="accessibility_reminder_privacy">Ochrana osobních údajů</string>
+  <!--Original value: Calendar Reminder-->
+  <string name="acessibility_cal_notification">Oznámení kalendáře</string>
+  <!--Original value: Stop reminder-->
+  <string name="acessibility_snooze_notification">Ztlumit upozornění</string>
+  <!--Original value: Send emails to guests-->
+  <string name="accessibility_email_notification">E-mail hostů</string>
+  <!--Original value: + New event-->
+  <string name="day_view_new_event_hint">Přidat novou událost</string>
+  <!--Original value: Event %1$s of %2$s.-->
+  <string name="template_announce_item_index">Událost %1$s z %2$s</string>
+  <!--Original value: Selected event-->
+  <string name="acessibility_selected_marker_description">Vybrané události</string>
+  <!--Original value: Do NOT check ->-->
+  <string name="do_not_check">Nekontrolovat -</string>
+  <!--Original value: Birthdays-->
+  <string name="birthday_calendar_display_name">Připomenutí narozenin</string>
+  <!--Original value: %1$s: Birthday (%2$d)-->
+  <string name="event_title_birthday_with_age" formatted="false">% 1 $ s: Narozeniny (% 2 $ d)</string>
+  <!--Original value: %1$s: Birthday-->
+  <string name="event_title_birthday_without_age" formatted="false">% 1 $ s: Narozeniny</string>
+  <!--Original value: %1$s: Anniversary (%2$d)-->
+  <string name="event_title_anniversary_with_age" formatted="false">%1$s: Víročí (%2$d)</string>
+  <!--Original value: %1$s: Anniversary-->
+  <string name="event_title_anniversary_without_age" formatted="false">%1$s: Víročí</string>
+  <!--Original value: %1$s: Other Event (%2$d)-->
+  <string name="event_title_other_with_age" formatted="false">%1$s: Ostatní akce (%2$d)</string>
+  <!--Original value: %1$s: Other Event-->
+  <string name="event_title_other_without_age" formatted="false">%1$s: Ostatní akce</string>
+  <!--Original value: %1$s: %2$s (%3$d)-->
+  <string name="event_title_custom_with_age" formatted="false">%1$s: %2$s (%3$d)</string>
+  <!--Original value: %1$s: %2$s-->
+  <string name="event_title_custom_without_age" formatted="false">%1$s: %2$s</string>
+  <!--Original value: Jump To-->
+  <string name="jump">Přejít na</string>
+  <!--Original value: Date to jump-->
+  <string name="date_to_jump">Datum skočit</string>
+  <!--Original value: -->
+  <string name="fest" />
+  <!--Original value: My Status-->
+  <string name="accessibility_reminder_label">Můj status</string>
+  <!--Original value: Guests-->
+  <string name="view_event_guest_label">Hosté</string>
+  <!--Original value: %d - %d - %d-->
+  <string name="full_date" formatted="false">%d - %d - %d</string>
+  <!--Original value: %d - %d-->
+  <string name="month_year_date" formatted="false">%d -%d</string>
+  <!--Original value: Calendar event-->
+  <string name="alert_title_hint">Kalendář událostí</string>
+  <!--Original value: Cancel-->
+  <string name="alert_button_cancel">Zrušit</string>
+  <!--Original value: Detail-->
+  <string name="alert_button_detail">Detail</string>
+  <!--Original value: OK-->
+  <string name="alert_button_confirm">OK</string>
+  <!--Original value: Calendar Reminder-->
+  <string name="alert_title_reminder">Kalendář Připomenutí</string>
+  <!--Original value: Delay-->
+  <string name="alert_button_delay">Zpoždění</string>
+  <!--Original value: Dismiss-->
+  <string name="alert_button_dismiss">Zamítnout</string>
+  <!--Original value: Event list-->
+  <string name="event_list">Seznam událostí</string>
+  <!--Original value: No events-->
+  <string name="no_events">Žádné události</string>
+  <!--Original value: No matched event-->
+  <string name="no_match_events">No uzavřeno událost</string>
+  <!--Original value: Accept-->
+  <string name="response_accept">Přijmout</string>
+  <!--Original value: Decline-->
+  <string name="response_decline">Odmítnout</string>
+  <!--Original value: Show Full Options-->
+  <string name="expend_more_button_label">Show Full Možnosti</string>
+  <!--Original value: Duration-->
+  <string name="duration_label">Trvání</string>
+  <!--Original value: Show calendar-->
+  <string name="preferences_display_calendar_title">Zobrazit kalendář</string>
+  <!--Original value: "Contact's birthday"-->
+  <string name="preferences_contacts_birthday_title">"Narozeniny"</string>
+  <!--Original value: Default calendar-->
+  <string name="preferences_default_calendar_title">Výchozí kalendář</string>
+  <!--Original value: Without an available calendar-->
+  <string name="preferences_default_calendar_summary">Bez volného kalendáře</string>
+  <!--Original value: Local Calendar-->
+  <string name="local_calendar">Místní kalendář</string>
+  <!--Original value: -->
+  <string name="yunyue" />
+  <!--Original value: Chinese holidays-->
+  <string name="preferences_contacts_chinaholiday_title">Čínské svátky</string>
+  <!--Original value: Yearly (Lunar)（%s）-->
+  <string name="lunar_yearly">Roční (lunární) (%s)</string>
+  <!--Original value: Yearly (Lunar)-->
+  <string name="lunar_yearly_plain">Roční (lunární)</string>
+  <!--Original value: Organizer: %s-->
+  <string name="alert_organizer">Pořadatel: %s</string>
+  <!--Original value: Add all-->
+  <string name="add_all_label">Přidat všechny</string>
+  <!--Original value: Add to-->
+  <string name="add_label">Přidat do</string>
+  <!--Original value: Events added successfully-->
+  <string name="toast_add_success">Akce byla úspěšně přidána</string>
+  <!--Original value: Fail to add an event.-->
+  <string name="toast_add_failed">Nepodařilo se přidat událost.</string>
+  <!--Original value: The file format is not supported.-->
+  <string name="toast_ics_error_type">Formát souboru není podporován.</string>
+  <!--Original value: Wrong path-->
+  <string name="toast_ics_error_path">Špatná cesta</string>
+  <!--Original value: No calendar event in the file-->
+  <string name="toast_ics_error_no_event">Žádná událost kalendáře do souboru</string>
+  <!--Original value: Fail to read the file.-->
+  <string name="toast_ics_error_parse">Nepodařilo se přečíst soubor.</string>
+  <!--Original value: Search Festival or Event-->
+  <string name="searchHitText">Vyhledávání Festival nebo akce</string>
+  <!--Original value: New Event-->
+  <string name="newevent">Nová událost</string>
+  <!--Original value: About-->
+  <string name="about">O</string>
+  <!--Original value: Pull to refresh.-->
+  <string name="xlistview_header_hint_normal">Vytáhněte aktualizovat.</string>
+  <!--Original value: Release to refresh data.-->
+  <string name="xlistview_header_hint_ready">Uvolněte pro obnovení dat.</string>
+  <!--Original value: Loading...-->
+  <string name="xlistview_header_hint_loading">Loading ...</string>
+  <!--Original value: ; until %s-->
+  <string name="event_until">; do% s</string>
+  <!--Original value: Subscription-->
+  <string name="subscribe_title">Předplatné</string>
+  <!--Original value: Subscription-->
+  <string name="subscribe_menu">Předplatné</string>
+  <!--Original value: Subscribe-->
+  <string name="subscribe">Odebírat</string>
+  <!--Original value: Cancel-->
+  <string name="alsubscribe">Zrušit</string>
+  <!--Original value: Details-->
+  <string name="detail">Podrobnosti</string>
+  <!--Original value: Subscribe successfully-->
+  <string name="success_subscribe">Úspěšně Přihlásit se</string>
+  <!--Original value: Subscribe canceled-->
+  <string name="success_cancel_subscribe">Přihlásit se zruší</string>
+  <!--Original value: Subscribe failed-->
+  <string name="false_subscribe">Přihlásit se nepodařilo</string>
+  <!--Original value: Server error-->
+  <string name="server_error">Chyba serveru</string>
+  <!--Original value: Subscribed programs-->
+  <string name="subscribe_programe">Účastníků programů</string>
+  <!--Original value: Please login with Flyme account-->
+  <string name="login_warning">Prosím přihlašte se Flyme účtu</string>
+  <!--Original value: Login-->
+  <string name="login_string">Přihlášení</string>
+  <!--Original value: Cancel-->
+  <string name="login_cancel">Zrušit</string>
+  <!--Original value: Cancel-->
+  <string name="cancel_subscribe">Zrušit</string>
+  <!--Original value: Variety-->
+  <string name="variety">Odrůda</string>
+  <!--Original value: TV-->
+  <string name="tv">Televize</string>
+  <!--Original value: Movies-->
+  <string name="moves">Filmy</string>
+  <!--Original value: Games-->
+  <string name="competition">Hry</string>
+  <!--Original value: Sale-->
+  <string name="sale">Prodej</string>
+  <!--Original value: Other-->
+  <string name="other">Další</string>
+  <!--Original value: Programe list-->
+  <string name="programe_list">Seznam PROGRAM</string>
+  <!--Original value: Description-->
+  <string name="programe_description">Popis</string>
+  <!--Original value: Loading-->
+  <string name="subscribe_loading">Nakládání</string>
+  <!--Original value: Broadcast time-->
+  <string name="subscribe_time">Čas vysílání</string>
+  <!--Original value: Subscription-->
+  <string name="already_subscribe_num">Předplatné</string>
+  <!--Original value: No available network connection.-->
+  <string name="no_net_work_warning">Není k dispozici připojení k síti.</string>
+  <!--Original value: No Subscription-->
+  <string name="no_subscribe">Ne Přihlášení</string>
+  <!--Original value: Subscription-->
+  <string name="people_already_subscribe">Předplatné</string>
+  <!--Original value: No tv programe-->
+  <string name="no_tv">No tv PROGRAM</string>
+  <!--Original value: No game programe-->
+  <string name="no_competition">No hra PROGRAM</string>
+  <!--Original value: No entertainment programe-->
+  <string name="no_variety">No zábava PROGRAM</string>
+  <!--Original value: No other programe-->
+  <string name="no_other">Žádný jiný PROGRAM</string>
+  <!--Original value: No programe-->
+  <string name="no_programe">No PROGRAM</string>
+  <!--Original value: +%1$s-->
+  <string name="more_string">Ještě %1$s...</string>
+  <!--Original value: Copy email address-->
+  <string name="copy_email">Kopírovat e-mailovou adresu</string>
+  <!--Original value: Copy phone number-->
+  <string name="copy_number">Kopírovat číslo telefonu</string>
+  <!--Original value: Return-->
+  <string name="done">Další</string>
+  <!--Original value: MeizuCommon-->
+  <string name="mc_app_name">MeizuCommon</string>
+  <!--Original value: Settings-->
+  <string name="mc_action_settings">Nastavení</string>
+  <!--Original value: Hello world!-->
+  <string name="mc_hello_world">Ahoj všichni!</string>
+  <!--Original value: Ok-->
+  <string name="mc_yes">Ok</string>
+  <!--Original value: Cancel-->
+  <string name="mc_cancel">Zrušit</string>
+  <!--Original value: Hour-->
+  <string name="mc_hour">Hodina</string>
+  <!--Original value: Minute-->
+  <string name="mc_minute">Minuta</string>
+  <!--Original value: Second-->
+  <string name="mc_second">Druhý</string>
+  <!--Original value: More-->
+  <string name="more_item_label">Více</string>
+  <!--Original value: MO-->
+  <string name="mc_monday">MO</string>
+  <!--Original value: TU-->
+  <string name="mc_tuesday">TU</string>
+  <!--Original value: WE-->
+  <string name="mc_wednesday">WE</string>
+  <!--Original value: TH-->
+  <string name="mc_thursday">TH</string>
+  <!--Original value: FR-->
+  <string name="mc_friday">FR</string>
+  <!--Original value: SA-->
+  <string name="mc_saturday">SA</string>
+  <!--Original value: SU-->
+  <string name="mc_sunday">SU</string>
+  <!--Original value: Only once-->
+  <string name="mc_never">Pouze jednou</string>
+  <!--Original value: Every day-->
+  <string name="mc_every_day">Každý den</string>
+  <!--Original value: Workday-->
+  <string name="mc_working_day">Pracovní den</string>
+  <!--Original value: Weekend-->
+  <string name="mc_weekend">Víkend</string>
+  <!--Original value: Decline-->
+  <string name="mc_description_target_decline">Odmítnout</string>
+  <!--Original value: Answer-->
+  <string name="mc_description_target_answer">Odpověď</string>
+</resources>

@@ -1,0 +1,1446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Messaging-->
+  <string name="app_label">Zprávy</string>
+  <!--Original value: New Message-->
+  <string name="new_message">Nová zpráva</string>
+  <!--Original value: New Flyme Message-->
+  <string name="new_flyme_message">Nová Flyme zpráva</string>
+  <!--Original value: Call %s-->
+  <string name="menu_call_back">Volat %s</string>
+  <!--Original value: Send email to %s-->
+  <string name="menu_send_email">Poslat email na %s</string>
+  <!--Original value: Compose-->
+  <string name="menu_compose_new">Napsat</string>
+  <!--Original value: Settings-->
+  <string name="menu_preferences">Nastavení</string>
+  <!--Original value: Add %s to People-->
+  <string name="menu_add_address_to_contacts">Přidat %s do kontaktů</string>
+  <!--Original value: Call-->
+  <string name="menu_call">Volat</string>
+  <!--Original value: Search-->
+  <string name="menu_search">Hledat</string>
+  <!--Original value: Delete all threads-->
+  <string name="menu_delete_all">Smazat všechny vlákna</string>
+  <!--Original value: Delete thread-->
+  <string name="menu_delete">Odstranit vlákno</string>
+  <!--Original value: View thread-->
+  <string name="menu_view">Zobrazit vlákno</string>
+  <!--Original value: DEBUG DUMP-->
+  <string name="menu_debug_dump">DEBUG DUMP</string>
+  <!--Original value: Refreshing…-->
+  <string name="refreshing">Obnovení...</string>
+  <!--Original value: Cell broadcasts-->
+  <string name="menu_cell_broadcasts">Mobilní vysílání</string>
+  <!--Original value: Draft-->
+  <string name="has_draft">Návrh</string>
+  <!--Original value: (No subject)-->
+  <string name="no_subject_view">(Předmět neuveden)</string>
+  <!--Original value: Me-->
+  <string name="messagelist_sender_self">Já</string>
+  <!--Original value: View slideshow-->
+  <string name="view_slideshow">Zobrazit slideshow</string>
+  <!--Original value: View details-->
+  <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
+  <!--Original value: View report-->
+  <string name="view_delivery_report">Zobrazit zprávu</string>
+  <!--Original value: Delete-->
+  <string name="delete_message">Smazat</string>
+  <!--Original value: Expires: %s-->
+  <string name="expire_on">Platnost vyprší: %s</string>
+  <!--Original value: KB-->
+  <string name="kilobyte">kB</string>
+  <!--Original value: Undelivered message-->
+  <string name="undelivered_msg_dialog_title">Nedoručená zpráva</string>
+  <!--Original value: "Couldn't send this message.
+Attempt made: %s."-->
+  <string name="undelivered_msg_dialog_body">"Zprávu se nepodařilo odeslat. 
+Pokus: %s."</string>
+  <!--Original value: "Couldn't send this message"-->
+  <string name="undelivered_sms_dialog_body">Zprávu se nepodařilo odeslat.</string>
+  <!--Original value: Delete thread-->
+  <string name="delete_thread">Odstranit vlákno</string>
+  <!--Original value: Forward-->
+  <string name="menu_forward">Předat dál</string>
+  <!--Original value: Download-->
+  <string name="download">Stáhnout</string>
+  <!--Original value: Downloading-->
+  <string name="downloading">Stahování</string>
+  <!--Original value: (Subject: %s)-->
+  <string name="inline_subject">(Předmět: %s)</string>
+  <!--Original value: * DRM protected text *-->
+  <string name="drm_protected_text">* DRM chráněný Text *</string>
+  <!--Original value: Insufficient DRM rights detected.-->
+  <string name="insufficient_drm_rights">Nemáte dostatečná práva DRM.</string>
+  <!--Original value: Copy text-->
+  <string name="copy_message_text">Kopírovat text zprávy</string>
+  <!--Original value: Message options-->
+  <string name="message_options">Možnosti zpráv</string>
+  <!--Original value: Slideshow options-->
+  <string name="slideshow_options">Možnosti prezentace</string>
+  <!--Original value: Return-->
+  <string name="done">Hotovo</string>
+  <!--Original value: Move up-->
+  <string name="move_up">Přesunout nahoru</string>
+  <!--Original value: Move down-->
+  <string name="move_down">Přesunout dolů</string>
+  <!--Original value: Remove slide-->
+  <string name="remove_slide">Odstranit snímek</string>
+  <!--Original value: Add slide-->
+  <string name="add_slide">Přidat snímek</string>
+  <!--Original value: Touch to create new slide.-->
+  <string name="add_slide_hint">Umožňuje vytvořit nový snímek.</string>
+  <!--Original value: Discard slideshow-->
+  <string name="discard_slideshow">Zahodit prezentaci</string>
+  <!--Original value: Part %1$s/%2$s-->
+  <string name="slide_show_part">Část %1$s/%2$s</string>
+  <!--Original value: Remove text-->
+  <string name="remove_text">Odstranit text</string>
+  <!--Original value: Add picture-->
+  <string name="add_picture">Přidat fotografii</string>
+  <!--Original value: Remove picture-->
+  <string name="remove_picture">Odstranit fotografii</string>
+  <!--Original value: Add music-->
+  <string name="add_music">Přidat hudbu</string>
+  <!--Original value: Remove music-->
+  <string name="remove_music">Odstranit hudbu</string>
+  <!--Original value: Add video-->
+  <string name="add_video">Přidat video</string>
+  <!--Original value: Remove video-->
+  <string name="remove_video">Odstranit video</string>
+  <!--Original value: To-->
+  <string name="to_hint">Na</string>
+  <!--Original value: Subject-->
+  <string name="subject_hint">Předmět</string>
+  <!--Original value: Attach-->
+  <string name="add_attachment">Příloha</string>
+  <!--Original value: Add subject-->
+  <string name="add_subject">Přidat předmět</string>
+  <!--Original value: Discard-->
+  <string name="discard">Zrušit</string>
+  <!--Original value: View-->
+  <string name="view">Zobrazit</string>
+  <!--Original value: Replace-->
+  <string name="replace">Nahradit</string>
+  <!--Original value: Remove-->
+  <string name="remove">Odstranit</string>
+  <!--Original value: Send-->
+  <string name="send">Poslat</string>
+  <!--Original value: MMS-->
+  <string name="mms">MMS</string>
+  <!--Original value: Send MMS-->
+  <string name="send_mms">Odeslat MMS</string>
+  <!--Original value: All threads-->
+  <string name="all_threads">Všechna vlákna</string>
+  <!--Original value: SMS/MMS-->
+  <string name="type_to_compose_text_enter_to_send">Sem pište zprávu</string>
+  <!--Original value: SMS-->
+  <string name="type_to_compose_sms_enter_to_send">SMS</string>
+  <!--Original value: Flyme Message-->
+  <string name="type_to_compose_flyme_text_enter_to_send">Flyme zprávy</string>
+  <!--Original value: Direct message-->
+  <string name="type_to_compose_sns_text_enter_to_send">Přímé zprávy</string>
+  <!--Original value: Open keyboard to type message-->
+  <string name="open_keyboard_to_compose_message">Otevřete klávesnici pro psaní zprávy</string>
+  <!--Original value: Photo too large, compressing-->
+  <string name="compressing">Fotografie je příliš velká. Probíhá komprese...</string>
+  <!--Original value: Unsupported %1$s format.-->
+  <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
+  <!--Original value: Choose a different %1$s.-->
+  <string name="select_different_media">Zvolte jinou položku %1$s.</string>
+  <!--Original value: Message size limit reached-->
+  <string name="exceed_message_size_limitation">Byl dosažen limit velikosti zprávy.</string>
+  <!--Original value: Message too large to attach a video-->
+  <string name="message_too_big_for_video">Zpráva je příliš velká pro připojení videa.</string>
+  <!--Original value: "You can't add this %1$s to your message"-->
+  <string name="failed_to_add_media">Tuto položku %1$s, nelze do zprávy přidat.</string>
+  <!--Original value: Picture not resized.-->
+  <string name="failed_to_resize_image">Velikost fotografie se nepodařilo přizpůsobit.</string>
+  <!--Original value: This picture is too large to send, even when resized.-->
+  <string name="resize_image_error_information">Velikost fotografie byla přizpůsobena. Přesto je příliš velká a nelze ji odeslat.</string>
+  <!--Original value: "Fwd: "-->
+  <string name="forward_prefix">"Fwd: "</string>
+  <!--Original value: Discard-->
+  <string name="discard_message">Zrušit</string>
+  <!--Original value: Your message will be discarded because it has no valid recipients.-->
+  <string name="discard_message_reason">Zpráva bude zrušena, protože neobsahuje žádné platné příjemce.</string>
+  <!--Original value: Invalid recipient(s)-->
+  <string name="has_invalid_recipient">Neplatní příjemci: %1$s</string>
+  <!--Original value: Invalid destination address-->
+  <string name="invalid_destination">Zadali jste neplatnou adresu.</string>
+  <!--Original value: Service not activated on network-->
+  <string name="service_not_activated">Služba není aktivní ve vaší síti.</string>
+  <!--Original value: Server cannot accept this content-->
+  <string name="content_not_accepted">Server nemůže přijmout tento obsah</string>
+  <!--Original value: Message expired or not available-->
+  <string name="service_message_not_found">Zpráva není dostupná</string>
+  <!--Original value: "Message expired, can't be downloaded"-->
+  <string name="message_has_expired">"Zpráva vypršela, nelze stáhnout"</string>
+  <!--Original value: "Couldn't send due to network problem"-->
+  <string name="service_network_problem">Nelze odeslat, potíže se sítí.</string>
+  <!--Original value: "Correct the recipient(s) or they won't receive the message."-->
+  <string name="invalid_recipient_message">Zprávu nelze doručit, opravte zadané údaje příjemců.</string>
+  <!--Original value: "Can't send message"-->
+  <string name="cannot_send_message">Zprávu nelze odeslat</string>
+  <!--Original value: Your message has no valid recipients.-->
+  <string name="cannot_send_message_reason">Zpráva nemá žádné platné příjemce.</string>
+  <!--Original value: "The DRM object included in the message can't be forwarded."-->
+  <string name="cannot_forward_drm_obj">Objekt DRM obsažený ve zprávě nelze přeposlat.</string>
+  <!--Original value: Converting to MMS-->
+  <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
+  <!--Original value: Converting to text message-->
+  <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
+  <!--Original value: "Can't add more slides."-->
+  <string name="cannot_add_slide_anymore">Další snímky nelze přidat.</string>
+  <!--Original value: "Can't add video and picture to one slide."-->
+  <string name="cannot_add_picture_and_video">Na jeden snímek nelze přidat video a obrázek.</string>
+  <!--Original value: "Can't save message"-->
+  <string name="cannot_save_message">"Nelze uložit zprávu"</string>
+  <!--Original value: Message saved as draft-->
+  <string name="message_saved_as_draft">Zpráva byla uložena jako koncept</string>
+  <!--Original value: Message has too many recipients (%1$s). There is a limit of %2$s recipients.-->
+  <string name="too_many_recipients">Počet příjemců této zprávy je příliš vysoký (%1$s). Počet příjemců je omezen na %2$s.</string>
+  <!--Original value: There is a limit of %1$s attachments. Only the first %2$s will be added.-->
+  <string name="too_many_attachments">Počet vložených příloh je omezen na %1$s. Bude přidáno pouze prvních %2$s příloh.</string>
+  <!--Original value: Adding attachments-->
+  <string name="adding_attachments_title">Přidávání příloh</string>
+  <!--Original value: Wait while the items are added to the slideshow.-->
+  <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
+  <!--Original value: Building slideshow-->
+  <string name="building_slideshow_title">Postavit slideshow</string>
+  <!--Original value: "Can't play audio."-->
+  <string name="cannot_play_audio">"Nelze přehrát zvuk."</string>
+  <!--Original value: Preview-->
+  <string name="preview">Náhled</string>
+  <!--Original value: Preview-->
+  <string name="preview_slideshow">Náhled</string>
+  <!--Original value: Replace picture-->
+  <string name="replace_image">Nahradit fotografii</string>
+  <!--Original value: Duration (%s sec)-->
+  <string name="duration_sec">Trvání (%s s)</string>
+  <!--Original value: "Duration for slide "-->
+  <string name="duration_selector_title">"Doba trvání snímku "</string>
+  <!--Original value: "Slideshow layout "-->
+  <string name="layout_selector_title">"Rozložení prezentace "</string>
+  <!--Original value: Layout (top)-->
+  <string name="layout_top">Rozložení (nahoře)</string>
+  <!--Original value: Layout (bottom)-->
+  <string name="layout_bottom">Rozložení (dole)</string>
+  <!--Original value: Type message, or leave blank-->
+  <string name="type_to_compose_text_or_leave_blank">Zadejte text nebo nechte prázdné</string>
+  <!--Original value: Duration must be a number-->
+  <string name="duration_not_a_number">Doba trvání musí být číslo</string>
+  <!--Original value: Duration must be greater than zero seconds-->
+  <string name="duration_zero">Doba trvání musí být větší než 0 sekund</string>
+  <!--Original value: secs-->
+  <string name="secs">s</string>
+  <!--Original value: View contact-->
+  <string name="menu_view_contact">Zobrazit kontakt</string>
+  <!--Original value: Add to People-->
+  <string name="menu_add_to_contacts">Přidat do kontaktů</string>
+  <!--Original value: Hidden sender address-->
+  <string name="hidden_sender_address">Adresa skrytého odesílatele</string>
+  <!--Original value: OK-->
+  <string name="yes">OK</string>
+  <!--Original value: Cancel-->
+  <string name="no">Zrušit</string>
+  <!--Original value: Set-->
+  <string name="set">Nastavit</string>
+  <!--Original value: Play-->
+  <string name="play">Přehrát</string>
+  <!--Original value: Edit-->
+  <string name="edit">Upravit</string>
+  <!--Original value: Try to send-->
+  <string name="try_to_send">Pokusit se odeslat</string>
+  <!--Original value: Settings-->
+  <string name="preferences_title">Nastavení</string>
+  <!--Original value: Restore default settings-->
+  <string name="restore_default">Obnovit výchozí nastavení</string>
+  <!--Original value: Notifications-->
+  <string name="pref_notification_settings_title">Nastavení oznamování</string>
+  <!--Original value: Multimedia (MMS) messages-->
+  <string name="pref_mms_settings_title">Nastavení zpráv (MMS)</string>
+  <!--Original value: Text (SMS) messages-->
+  <string name="pref_sms_settings_title">Textové (SMS) zprávy</string>
+  <!--Original value: Storage-->
+  <string name="pref_sms_storage_title">Paměť</string>
+  <!--Original value: Manage messages stored on your SIM card-->
+  <string name="pref_summary_manage_sim_messages">Správa zpráv uložené na SIM kartě</string>
+  <!--Original value: Request a delivery report for each message you send-->
+  <string name="pref_summary_mms_delivery_reports">Žádost o potvrzení o doručení pro všechny odeslané zprávy</string>
+  <!--Original value: Request a read report for each message you send-->
+  <string name="pref_summary_mms_read_reports">Oznamovat přečtení zprávy</string>
+  <!--Original value: Request a delivery report for each message you send-->
+  <string name="pref_summary_sms_delivery_reports">Žádost o potvrzení o doručení pro všechny odeslané zprávy</string>
+  <!--Original value: Delete old messages as limits are reached-->
+  <string name="pref_summary_auto_delete">Smazat staré zprávy, jak je dosaženo mezní hodnoty</string>
+  <!--Original value: %1$s messages per conversation-->
+  <string name="pref_summary_delete_limit">Počet zpráv v konverzaci: %1$s</string>
+  <!--Original value: Use MMS to send one message to multiple receivers-->
+  <string name="pref_summary_mms_group_mms">Použijte MMS k odeslání jedné zprávy více příjemcům</string>
+  <!--Original value: Manage SIM card messages-->
+  <string name="pref_title_manage_sim_messages">Správa zpráv na kartě SIM</string>
+  <!--Original value: Delivery reports-->
+  <string name="pref_title_mms_delivery_reports">Výpisy doručených zpráv</string>
+  <!--Original value: Group messaging-->
+  <string name="pref_title_mms_group_mms">Skupina zpráv</string>
+  <!--Original value: Read reports-->
+  <string name="pref_title_mms_read_reports">Potvrzení o přečtení</string>
+  <!--Original value: Delivery reports-->
+  <string name="pref_title_sms_delivery_reports">Výpisy doručených zpráv</string>
+  <!--Original value: Delete old messages-->
+  <string name="pref_title_auto_delete">Smazat staré zprávy</string>
+  <!--Original value: Text message limit-->
+  <string name="pref_title_sms_delete">Limit textových zpráv</string>
+  <!--Original value: Multimedia message limit-->
+  <string name="pref_title_mms_delete">Limit MMS zpráv</string>
+  <!--Original value: Preview in notification bar-->
+  <string name="pref_title_notification_enabled">Náhled v oznamovací liště</string>
+  <!--Original value: Display message notifications in status bar-->
+  <string name="pref_summary_notification_enabled">Zobrazit oznámení zprávy ve stavovém řádku</string>
+  <!--Original value: Vibrate-->
+  <string name="pref_title_notification_vibrateWhen">Vibrovat</string>
+  <!--Original value: Also vibrate when notified-->
+  <string name="pref_summary_notification_vibrateWhen">Také vibrovat při oznámení</string>
+  <!--Original value: Choose ringtone-->
+  <string name="pref_title_notification_ringtone">Zvolte vyzváněcí tón</string>
+  <!--Original value: Set number of messages to save-->
+  <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
+  <!--Original value: never-->
+  <string name="prefDefault_vibrateWhen">nikdy</string>
+  <!--Original value: always-->
+  <string name="prefDefault_vibrate_true">vždy</string>
+  <!--Original value: never-->
+  <string name="prefDefault_vibrate_false">nikdy</string>
+  <!--Original value: Vibrate-->
+  <string name="prefDialogTitle_vibrateWhen">Vybrovat</string>
+  <!--Original value: Auto-retrieve-->
+  <string name="pref_title_mms_auto_retrieval">Načítat zprávy</string>
+  <!--Original value: Automatically retrieve messages-->
+  <string name="pref_summary_mms_auto_retrieval">Automaticky načítat zprávy</string>
+  <!--Original value: Roaming auto-retrieve-->
+  <string name="pref_title_mms_retrieval_during_roaming">Načítat při roamingu</string>
+  <!--Original value: Automatically retrieve messages while roaming-->
+  <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítat zprávy při roamingu</string>
+  <!--Original value: Delete?-->
+  <string name="confirm_dialog_title">Smazat</string>
+  <!--Original value: Delete locked message?-->
+  <string name="confirm_dialog_locked_title">Smazat zamknuté zprávy?</string>
+  <!--Original value: The entire thread will be deleted.-->
+  <string name="confirm_delete_conversation">Celá konverzace bude smazána</string>
+  <!--Original value: All threads will be deleted.-->
+  <string name="confirm_delete_all_conversations">Všechny konverzace budou smazány</string>
+  <!--Original value: This message will be deleted.-->
+  <string name="confirm_delete_message">Opravdu chcete smazat tuto zprávu?</string>
+  <!--Original value: Delete this locked message?-->
+  <string name="confirm_delete_locked_message">Opravdu chcete smazat tuto zamknutou zprávu?</string>
+  <!--Original value: All messages will be deleted from SIM.-->
+  <string name="confirm_delete_all_SIM_messages">Všechny zprávy na SIM budou smazány</string>
+  <!--Original value: This message will be deleted from SIM.-->
+  <string name="confirm_delete_SIM_message">Tato zpráva na kartě SIM bude smazána.</string>
+  <!--Original value: Delete locked messages-->
+  <string name="delete_unlocked">Smazat i zamknuté</string>
+  <!--Original value: Delete-->
+  <string name="delete">Smazat</string>
+  <!--Original value: Choose conversations-->
+  <string name="select_conversations">Zvolte konverzace</string>
+  <!--Original value: No conversations-->
+  <string name="no_conversations">Žádné konverzace</string>
+  <!--Original value: Loading conversations.-->
+  <string name="loading_conversations">Načítám konverzace...</string>
+  <!--Original value: "Can't get details."-->
+  <string name="cannot_get_details">Nelze získat informace</string>
+  <!--Original value: Message details-->
+  <string name="message_details_title">Podrobnosti o zprávě</string>
+  <!--Original value: "Type: "-->
+  <string name="message_type_label">"Typ: "</string>
+  <!--Original value: Text message-->
+  <string name="text_message">Text zprávy</string>
+  <!--Original value: Multimedia message-->
+  <string name="multimedia_message">MMS</string>
+  <!--Original value: Multimedia message notification-->
+  <string name="multimedia_notification">Zvuk oznámení</string>
+  <!--Original value: "From: "-->
+  <string name="from_label">"Od: "</string>
+  <!--Original value: "To: "-->
+  <string name="to_address_label">"Komu: "</string>
+  <!--Original value: "BCC: "-->
+  <string name="bcc_label">"Bcc: "</string>
+  <!--Original value: "Sent: "-->
+  <string name="sent_label">"Odeslané: "</string>
+  <!--Original value: "Received: "-->
+  <string name="received_label">"Přijaté: "</string>
+  <!--Original value: "Saved: "-->
+  <string name="saved_label">"Uložené: "</string>
+  <!--Original value: "Subject: "-->
+  <string name="subject_label">"Předmět: "</string>
+  <!--Original value: "Size "-->
+  <string name="message_size_label">"Velikost zprávy: "</string>
+  <!--Original value: "Priority: "-->
+  <string name="priority_label">"Priorita: "</string>
+  <!--Original value: High-->
+  <string name="priority_high">Vysoká</string>
+  <!--Original value: Normal-->
+  <string name="priority_normal">Střední</string>
+  <!--Original value: Low-->
+  <string name="priority_low">Nízká</string>
+  <!--Original value: "Message class: "-->
+  <string name="message_class_label">"Třída zprávy: "</string>
+  <!--Original value: "Error code: "-->
+  <string name="error_code_label">"Chyba kódu: "</string>
+  <!--Original value: Edit-->
+  <string name="menu_edit">Upravit</string>
+  <!--Original value: Delete messages-->
+  <string name="menu_delete_messages">Smazat zprávy</string>
+  <!--Original value: Lock-->
+  <string name="menu_lock">Zamknout</string>
+  <!--Original value: Unlock-->
+  <string name="menu_unlock">Odemknout</string>
+  <!--Original value: Copy to phone memory-->
+  <string name="sim_copy_to_phone_memory">Kopírovat do paměti telefonu</string>
+  <!--Original value: Delete-->
+  <string name="sim_delete">Smazat</string>
+  <!--Original value: Text messages on SIM card-->
+  <string name="sim_manage_messages_title">SMS na SIM kartě</string>
+  <!--Original value: View-->
+  <string name="sim_view">Zobrazit</string>
+  <!--Original value: No messages on SIM card.-->
+  <string name="sim_empty">Žádné uložené zprávy na SIM kartě.</string>
+  <!--Original value: Report-->
+  <string name="delivery_header_title">Zpráva</string>
+  <!--Original value: (None)-->
+  <string name="status_none">(Nic)</string>
+  <!--Original value: Pending-->
+  <string name="status_pending">Probíhá</string>
+  <!--Original value: Read-->
+  <string name="status_read">Přečtěte si</string>
+  <!--Original value: Received-->
+  <string name="status_received">Přijaté</string>
+  <!--Original value: Unsuccessful-->
+  <string name="status_failed">Neúspěšný</string>
+  <!--Original value: Unread-->
+  <string name="status_unread">Nepřečtený</string>
+  <!--Original value: Rejected-->
+  <string name="status_rejected">Odmítnuto</string>
+  <!--Original value: "Recipient: "-->
+  <string name="recipient_label">"Příjemce: "</string>
+  <!--Original value: "Status: "-->
+  <string name="status_label">"Status: "</string>
+  <!--Original value: "Delivered: "-->
+  <string name="delivered_label">"Doručená: "</string>
+  <!--Original value: Contact text-->
+  <string name="attach_contact">Kontaktní textu</string>
+  <!--Original value: MMS attachment-->
+  <string name="attach_label">Příloha MMS</string>
+  <!--Original value: Contact vCard-->
+  <string name="attach_vcard">Kontaktní vCard</string>
+  <!--Original value: Pictures-->
+  <string name="attach_image">Obrázky</string>
+  <!--Original value: Take photo-->
+  <string name="attach_take_photo">Vyfotit obrázek</string>
+  <!--Original value: Videos-->
+  <string name="attach_video">Videa</string>
+  <!--Original value: Capture video-->
+  <string name="attach_record_video">Nahrát video</string>
+  <!--Original value: Audio-->
+  <string name="attach_sound">Zvuk</string>
+  <!--Original value: Record audio-->
+  <string name="attach_record_sound">Nahrát zvuk</string>
+  <!--Original value: Slideshow-->
+  <string name="attach_slideshow">Prezentace</string>
+  <!--Original value: Text on bottom-->
+  <string name="select_bottom_text">Text dole</string>
+  <!--Original value: Text on top-->
+  <string name="select_top_text">Text nahoře</string>
+  <!--Original value: Message received by %s-->
+  <string name="delivery_toast_body">Zpráva pro %s doručena</string>
+  <!--Original value: Not received by %s yet-->
+  <string name="delivery_toast_body_fail">%s ještě neobdržel</string>
+  <!--Original value: %s unread messages.-->
+  <string name="notification_multiple">%s nepřečtených zpráv.</string>
+  <!--Original value: New messages-->
+  <string name="notification_multiple_title">Nové zprávy</string>
+  <!--Original value: "%s messages couldn't be sent"-->
+  <string name="notification_failed_multiple">%s zpráv nelze odeslat.</string>
+  <!--Original value: Messages not sent-->
+  <string name="notification_failed_multiple_title">Zprávy neodeslané</string>
+  <!--Original value: SIM card full-->
+  <string name="sim_full_title">SIM karta je plná</string>
+  <!--Original value: Delete some messages to make room for more.-->
+  <string name="sim_full_body">Smazat některé zprávy, aby byl prostor pro další.</string>
+  <!--Original value: Text message memory full-->
+  <string name="sms_full_title">Textové zprávy mají zaplněnou paměť</string>
+  <!--Original value: Unable to receive a short message as the storage is full. Please clear memory disk.-->
+  <string name="sms_full_body">Příchozí zpráva odmítnuta z důvodu zaplnění paměti. Odstraňte prosím staré zprávy.</string>
+  <!--Original value: Text message rejected-->
+  <string name="sms_rejected_title">Textová zpráva odmítnuta</string>
+  <!--Original value: An incoming message was rejected due to an unknown reason.-->
+  <string name="sms_rejected_body">Příchozí zpráva odmítnuta z neznámého důvodu.</string>
+  <!--Original value: audio-->
+  <string name="type_audio">zvuk</string>
+  <!--Original value: photo-->
+  <string name="type_picture">obrázek</string>
+  <!--Original value: video-->
+  <string name="type_video">video</string>
+  <!--Original value: Confirm-->
+  <string name="confirm">Potvrdit</string>
+  <!--Original value: A read report will be sent.-->
+  <string name="message_send_read_report">Přečtená zpráva bude odeslána</string>
+  <!--Original value: "Currently can't send your message. It will be sent when the service becomes available"-->
+  <string name="message_queued">V současné době nelze zprávu odeslat. Bude odeslána, jakmile bude služba k dispozici.</string>
+  <!--Original value: You can only send messages to your fixed dialing numbers.-->
+  <string name="fdn_check_failure">Můžete pouze posílat zprávy na Vaše povolená čísla.</string>
+  <!--Original value: (No subject)-->
+  <string name="no_subject">(Bez předmětu)</string>
+  <!--Original value: Unknown sender-->
+  <string name="unknown_sender">Neznámý odesílatel</string>
+  <!--Original value: "Couldn't download message %1$s from %2$s."-->
+  <string name="dl_failure_notification">Stahování zpráv %1$s od %2$s bylo neúspěšné.</string>
+  <!--Original value: Confirm-->
+  <string name="rate_limit_surpassed">Potvrdit</string>
+  <!--Original value: A large number of multimedia messages will be sent. Is this OK?-->
+  <string name="confirm_rate_limit">Odesíláte velké množství multimediálních zpráv. Je to v pořádku?</string>
+  <!--Original value: Message not downloaded-->
+  <string name="message_download_failed_title">Zpráva nebyla stažena</string>
+  <!--Original value: Message not sent-->
+  <string name="message_send_failed_title">Zpráva nebyla odeslána</string>
+  <!--Original value: Touch to review the message and try again.-->
+  <string name="message_failed_body">Zkuste to znovu</string>
+  <!--Original value: "Can't download right now. Try again later."-->
+  <string name="download_later">V současné době nelze stáhnout. Zkuste to prosím později.</string>
+  <!--Original value: "Network error, can't send message."-->
+  <string name="no_net_for_send">"Chyba sítě, nelze odeslat zprávu."</string>
+  <!--Original value: Choose audio-->
+  <string name="select_audio">Vybrat audio</string>
+  <!--Original value: Save attachment-->
+  <string name="copy_to_sdcard">Uložit přílohu</string>
+  <!--Original value: Attachment saved-->
+  <string name="copy_to_sdcard_success">Příloha byla uložena</string>
+  <!--Original value: "Couldn't save attachment"-->
+  <string name="copy_to_sdcard_fail">Uložit přílohu</string>
+  <!--Original value: Save as ringtone-->
+  <string name="save_ringtone">Uložit jako vyzvánění</string>
+  <!--Original value: Ringtone saved-->
+  <string name="saved_ringtone">Vyzvánění uložené</string>
+  <!--Original value: "Couldn't save ringtone"-->
+  <string name="saved_ringtone_fail">Uložení vyzvánění se nezdařilo</string>
+  <!--Original value: Insert smiley-->
+  <string name="menu_insert_smiley">Vložit smajlík</string>
+  <!--Original value: Group participants-->
+  <string name="menu_group_participants">Účastníci skupiny</string>
+  <!--Original value: Choose action-->
+  <string name="select_link_title">Vybrat akci</string>
+  <!--Original value: Slide %s-->
+  <string name="slide_number">Přechod %s</string>
+  <!--Original value: Delivery report-->
+  <string name="delivery_report_activity">Potvrzení o doručení</string>
+  <!--Original value: Storage limits-->
+  <string name="storage_limits_activity">Limit paměti</string>
+  <!--Original value: Change duration-->
+  <string name="change_duration_activity">Změna doby trvání</string>
+  <!--Original value: Edit slideshow-->
+  <string name="edit_slideshow_activity">Upravit prezentaci</string>
+  <!--Original value: Group participants-->
+  <string name="recipient_list_activity">Účastníci skupiny</string>
+  <!--Original value: Edit slide-->
+  <string name="edit_slide_activity">Upravit přechod</string>
+  <!--Original value: Slideshow-->
+  <string name="slideshow_activity">Prezentace</string>
+  <!--Original value: Class 0 message-->
+  <string name="class_0_message_activity">Třída 0 zpráv</string>
+  <!--Original value: Message-->
+  <string name="search_label">Zprávy</string>
+  <!--Original value: Search messaging-->
+  <string name="search_hint">Hledat ve zprávách</string>
+  <!--Original value: Message-->
+  <string name="search">Zprávy</string>
+  <!--Original value: Text in your messages-->
+  <string name="search_setting_description">Text ve zprávách</string>
+  <!--Original value: No matches.-->
+  <string name="search_empty">Žádné výsledky</string>
+  <!--Original value: %1$s results for \"%2$s\"-->
+  <string name="search_history">%1$ výsledky pro \"%2$s\"</string>
+  <!--Original value: Clear-->
+  <string name="confirm_clear_search_title">Vymazat</string>
+  <!--Original value: Search history will be cleared.-->
+  <string name="confirm_clear_search_text">Historie hledání bude vymazána.</string>
+  <!--Original value: Clear search history-->
+  <string name="pref_mms_clear_search_history_title">Vymazat historii vyhledávání</string>
+  <!--Original value: Clear previous Messaging searches from showing up in the Search box-->
+  <string name="pref_mms_clear_search_history_summary">Vymazat předchozí Zprávy zobrazené ve vyhledávacím poli</string>
+  <!--Original value: Save-->
+  <string name="save">Uložit</string>
+  <!--Original value: Limit messages-->
+  <string name="storage_limits_title">Limit zpráv</string>
+  <!--Original value: Limit the number of messages you save per conversation?-->
+  <string name="storage_limits_message">Chcete omezit počet zpráv a šetřit místo na rozhovor?</string>
+  <!--Original value: Set limits-->
+  <string name="storage_limits_setting">Nastavené limity</string>
+  <!--Original value: No limits-->
+  <string name="storage_limits_setting_dismiss">Bez omezení</string>
+  <!--Original value: "Can't send message right now. Too many unsent multimedia messages"-->
+  <string name="too_many_unsent_mms">Nelze odeslat zprávu hned. Existuje příliš mnoho neodeslaných MMS zpráv.</string>
+  <!--Original value: SENDING…-->
+  <string name="sending_message">ODESÍLÁNÍ...</string>
+  <!--Original value: Too many recipients-->
+  <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
+  <!--Original value: Adding recipients…-->
+  <string name="adding_recipients">Přidání příjemce...</string>
+  <!--Original value: ", "-->
+  <string name="draft_separator">", "</string>
+  <!--Original value:  %1$s-->
+  <string name="message_count_format"> %1$s</string>
+  <!--Original value: %1$s new messages-->
+  <string name="message_count_notification">%1$s nové zprávy</string>
+  <!--Original value: Inconsistent state-->
+  <string name="error_state">Nekonzistentní stav</string>
+  <!--Original value: The state of threads and recipients is inconsistent. Please capture a bug report and report it via http://go/droidanizer-->
+  <string name="error_state_text">Vazby mezi zprávami a příjemci jsou nekonzistentní. Získejte chybové hlášení a odešlete ho na android-sms-bugs@google.com.</string>
+  <!--Original value: Stop duplicate text message notifications from default Messaging app?-->
+  <string name="disable_notifications_dialog_message">Zamezit duplicitnímu oznamování zpráv pro výchozí SMS/MMS aplikaci?</string>
+  <!--Original value: View more conversations-->
+  <string name="view_more_conversations">Zobrazit více konverzací</string>
+  <!--Original value: Audio-->
+  <string name="attachment_audio">Audio</string>
+  <!--Original value: Slideshow-->
+  <string name="attachment_slideshow">Slideshow</string>
+  <!--Original value: Video-->
+  <string name="attachment_video">Video</string>
+  <!--Original value: Picture-->
+  <string name="attachment_picture">Obrázek</string>
+  <!--Original value: vCard-->
+  <string name="attachment_vcard">vCard</string>
+  <!--Original value: File-->
+  <string name="attachment_file">Soubor</string>
+  <!--Original value: Voice-->
+  <string name="attachment_talk">Hlas</string>
+  <!--Original value: Location-->
+  <string name="attachment_location">Umístění</string>
+  <!--Original value: "  "-->
+  <string name="notification_separator">"  "</string>
+  <!--Original value: ", "-->
+  <string name="enumeration_comma" />
+  <!--Original value: Advanced settings-->
+  <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
+  <!--Original value: Spam filter-->
+  <string name="pref_title_manage_messages_spam">Filtr nevyžádané pošty</string>
+  <!--Original value: Spam messages will be stored in trash-->
+  <string name="pref_summary_manage_messages_spam">Spamy budou uloženy v koši</string>
+  <!--Original value: Other settings-->
+  <string name="pref_other_settings_title">Další nastavení</string>
+  <!--Original value: Flyme Message-->
+  <string name="pref_title_flyme_message">Flyme zprávy</string>
+  <!--Original value: Login out-->
+  <string name="pref_summary_flyme_login_out">Přihlásit se</string>
+  <!--Original value: Disabled-->
+  <string name="pref_summary_flyme_msg_disable">Vypnuto</string>
+  <!--Original value: Enabled-->
+  <string name="pref_summary_flyme_msg_enable">Povoleno</string>
+  <!--Original value: SMS center-->
+  <string name="lable_sms_center_number">SMS centrum</string>
+  <!--Original value: SMS center number-->
+  <string name="dialog_sms_center_number">Číslo SMS centra</string>
+  <!--Original value: Default-->
+  <string name="default_sms_center_number">Standardní</string>
+  <!--Original value: Flyme Message-->
+  <string name="pref_flyme_title">Flyme zprávy</string>
+  <!--Original value: Options-->
+  <string name="pref_flyme_settings_options_title">Volby</string>
+  <!--Original value: Flyme Message-->
+  <string name="pref_key_sip_msg">Flyme zprávy</string>
+  <!--Original value: Regular SMS as backup-->
+  <string name="pref_key_sip_msg_to_sms">Normální SMS jako záložní</string>
+  <!--Original value: Send regular SMS when Flyme Message fails-->
+  <string name="pref_key_sip_msg_to_sms_summary">Poslat normální SMS, když Flyme Zpráva selže</string>
+  <!--Original value: Receive method-->
+  <string name="pref_flyme_settings_receive_title">Metody Příjem</string>
+  <!--Original value: Phone-->
+  <string name="pref_flyme_phone">Telefon</string>
+  <!--Original value: Email-->
+  <string name="pref_flyme_email">E-mail</string>
+  <!--Original value: Other email-->
+  <string name="pref_flyme_other_email">Další e-mail</string>
+  <!--Original value: Querying-->
+  <string name="progress_query_title">Dotazování</string>
+  <!--Original value: Deleting-->
+  <string name="progress_del_title">Odstranění</string>
+  <!--Original value: Copying-->
+  <string name="progress_copy_title">Kopírování</string>
+  <!--Original value: Smart filter-->
+  <string name="pref_title_tms_spam_enable">Inteligentní filtr</string>
+  <!--Original value: Filter spam message-->
+  <string name="pref_summary_tms_spam_enable">Filtr spamu</string>
+  <!--Original value: Spam messages of stranger-->
+  <string name="pref_title_spam_stranger_msg">Spamy na cizince</string>
+  <!--Original value: Spam messages send by stranger and number has not been included in conversation list-->
+  <string name="pref_summary_spam_stranger_msg">Spamy poslat cizince a počtu nebyl zahrnut do seznamu konverzací</string>
+  <!--Original value: Spam list from Flyme-->
+  <string name="pref_title_spam_enable_cloud">Seznam Spam z Flyme</string>
+  <!--Original value: Enable Flyme public users blacklist blacklist and share-->
+  <string name="pref_toast_spam_enable_cloud">Povolit Flyme veřejné uživatelům blacklist blacklist a podíl</string>
+  <!--Original value: Trash-->
+  <string name="trash">Koš</string>
+  <!--Original value: %d messages-->
+  <string name="pref_summary_manage_spam_trash">%d zpráv</string>
+  <!--Original value: Options-->
+  <string name="pref_options_title">Volby</string>
+  <!--Original value: Blocked numbers-->
+  <string name="pref_title_manage_spam_address">Blokované čísla</string>
+  <!--Original value: %d numbers-->
+  <string name="pref_summary_manage_spam_address">%d čísla</string>
+  <!--Original value: Last 30 days Information-->
+  <string name="trash_list_clear_tip">Posledních 30 dní</string>
+  <!--Original value: No spam messages-->
+  <string name="trash_list_no_message">Žádné spamy</string>
+  <!--Original value: Restore-->
+  <string name="trash_restore_title">Obnovit</string>
+  <!--Original value: Restore message-->
+  <string name="trash_restore_title_extra">Obnovit zprávu</string>
+  <!--Original value: Delete-->
+  <string name="delete_default_title">Vymazat</string>
+  <!--Original value: Select all-->
+  <string name="mms_select_all_message">Vybrat vše</string>
+  <!--Original value: (%s)-->
+  <string name="spam_mms_remark">(%s)</string>
+  <!--Original value: Do you want to delete the selected messages?-->
+  <string name="check_for_delete_sms_body">Chcete smazat vybrané zprávy?</string>
+  <!--Original value: OK-->
+  <string name="check_for_delete_sms_ok">OK</string>
+  <!--Original value: Cancel-->
+  <string name="check_for_delete_sms_cancel">Zrušit</string>
+  <!--Original value: Do you want to restore selected messages?-->
+  <string name="check_for_restore_spam">Chcete obnovit vybrané zprávy?</string>
+  <!--Original value: Loading-->
+  <string name="trash_spam_messages_loading">Načítání</string>
+  <!--Original value: restoring-->
+  <string name="restore_progress_dialog_title">obnovení</string>
+  <!--Original value: Deleting-->
+  <string name="del_progress_dialog_title">Odstranění</string>
+  <!--Original value: Add blacklist-->
+  <string name="add_spam_number">Přidat blacklist</string>
+  <!--Original value: Edit blacklist-->
+  <string name="edit_spam_number">Upravit blacklist</string>
+  <!--Original value: Add a keyword-->
+  <string name="add_spam_keyword">Přidat klíčové slovo</string>
+  <!--Original value: Edit a keyword-->
+  <string name="edit_spam_keyword">Upravit klíčové slovo</string>
+  <!--Original value: In progress-->
+  <string name="progress_msg">Probíhá</string>
+  <!--Original value: Select all-->
+  <string name="select_all">Vybrat vše</string>
+  <!--Original value: Select none-->
+  <string name="select_none">Zvolte nic</string>
+  <!--Original value: Number or flyme account-->
+  <string name="spam_number_input_hint">Číslo nebo flyme účet</string>
+  <!--Original value: Description-->
+  <string name="spam_desc_input_hint">Popis</string>
+  <!--Original value: This is a filtered MMS notification-->
+  <string name="spam_mms_notify_body">Jedná se zfiltruje oznámení MMS</string>
+  <!--Original value: Do you want to delete selected numbers?-->
+  <string name="check_for_delete_address">Chcete smazat vybraná čísla?</string>
+  <!--Original value: Do you want to delete selected keywords?-->
+  <string name="check_for_delete_keyword">Chcete smazat vybraná klíčová slova?</string>
+  <!--Original value: Do you want to report selected numbers to server?-->
+  <string name="check_for_report_number">Chcete ohlásit vybraná čísla na server?</string>
+  <!--Original value: Spam keywords settings-->
+  <string name="pref_title_manage_spam_keyword">Nastavení Spam klíčová slova</string>
+  <!--Original value: Message delivery report-->
+  <string name="msg_body_status_report_icc">Doručení zprávy Zpráva</string>
+  <!--Original value: Attach vCard-->
+  <string name="add_attachment_contact_vcard_title">Připojte vCard</string>
+  <!--Original value: Attach contact info-->
+  <string name="add_attachment_contact_text_title">Připojte kontaktní informace</string>
+  <!--Original value: Attach audio-->
+  <string name="add_attachment_audio_title">Připojte audio</string>
+  <!--Original value: Attach-->
+  <string name="add_attachment_floder_title">Připojit</string>
+  <!--Original value: New class 0 message-->
+  <string name="notify_class0_title">Nová třída 0 zpráv</string>
+  <!--Original value: Background-->
+  <string name="pref_title_change_background_theme">Pozadí</string>
+  <!--Original value: Background-->
+  <string name="change_bg_theme_title">Pozadí</string>
+  <!--Original value: Save-->
+  <string name="change_bg_theme_save">Uložit</string>
+  <!--Original value: Cancel-->
+  <string name="change_bg_theme_cancel">Zrušit</string>
+  <!--Original value: Local photos-->
+  <string name="local_pictures_title">Místní fotky</string>
+  <!--Original value: Select picture as follows-->
+  <string name="choose_picture_dialog_title">Vyberte obrázek takto</string>
+  <!--Original value: Do you want to delete SIM card messages?-->
+  <string name="check_for_delete_sim_body">Chcete-li odstranit zprávy SIM karty?</string>
+  <!--Original value: Back-->
+  <string name="mms_select_none_message">Zpátky</string>
+  <!--Original value: Message overflow-->
+  <string name="Titlebar_Title_Message_Count_overlimit">Přetečení zprávy</string>
+  <!--Original value: Searching-->
+  <string name="searching">Vyhledávání</string>
+  <!--Original value: search result-->
+  <string name="search_lable">Výsledek hledání</string>
+  <!--Original value: Contact vCard-->
+  <string name="type_vcard">vCard</string>
+  <!--Original value: File-->
+  <string name="type_file">Soubor</string>
+  <!--Original value: text-->
+  <string name="type_text">text</string>
+  <!--Original value: Unable to attach to MMS.-->
+  <string name="mms_added_failed">Nelze se připojit k MMS.</string>
+  <!--Original value: Data error-->
+  <string name="unkown_file">Chyba dat</string>
+  <!--Original value: Name-->
+  <string name="vcard_name">Název</string>
+  <!--Original value: Phone number-->
+  <string name="vcard_tel">Telefonní číslo</string>
+  <!--Original value: "Email:%1$s
+"-->
+  <string name="vcard_email">"E-mail:%1$s
+"</string>
+  <!--Original value: "Website:%1$s
+"-->
+  <string name="vcard_website">"Internetové stránky:%1$s
+"</string>
+  <!--Original value: Add to blacklist-->
+  <string name="spam">Přidat na blacklist</string>
+  <!--Original value: Add to blacklist-->
+  <string name="spam_extra">Přidat na blacklist</string>
+  <!--Original value: Delete-->
+  <string name="delete_extra">Vymazat</string>
+  <!--Original value: Mark as spam-->
+  <string name="mark_as_spam">Označit jako spam</string>
+  <!--Original value: Are you sure you want to mark selected messages as spam?-->
+  <string name="mark_as_spam_msg">Jste si jisti, že chcete označit vybrané zprávy jako spam?</string>
+  <!--Original value: Filtering-->
+  <string name="mark_as_spam_progress_dialog_msg">Filtrování</string>
+  <!--Original value: Empty-->
+  <string name="spam_list_no_item">Prázdný</string>
+  <!--Original value: Info has been filtered and will automatically go to trash-->
+  <string name="add_spam_number_toast_tip">Info byl filtrován a automaticky přejde do koše</string>
+  <!--Original value: Confirm filtering?-->
+  <string name="spam_number_dialog_title">Potvrzení filtrování?</string>
+  <!--Original value: ,-->
+  <string name="spam_number_spare_sign">,</string>
+  <!--Original value: will be added to spam filter-->
+  <string name="spam_number_dialog_message_0">budou přidány do spamového filtru</string>
+  <!--Original value: etc. will be added to spam filter-->
+  <string name="spam_number_dialog_message_1">atd. budou přidány do spamového filtru</string>
+  <!--Original value: Report to cloud-->
+  <string name="spam_report_to_server">Zpráva pro cloud</string>
+  <!--Original value: Too many messages are stored. Please delete some to elevate the efficiency.-->
+  <string name="Titlebar_Describe_Message_Count_overlimit">Příliš mnoho zpráv jsou uloženy. Prosím, odstraňte některé pozvednout účinnost.</string>
+  <!--Original value: vCard info-->
+  <string name="msg_body_sms_vcard">vCard info</string>
+  <!--Original value: Sending-->
+  <string name="waiting_for_sending">Odeslání</string>
+  <!--Original value: Reading data…-->
+  <string name="waiting_for_make_slideshow">Čtení dat...</string>
+  <!--Original value: Resend-->
+  <string name="sms_mms_failed_redeliver_title">Poslat znovu</string>
+  <!--Original value: Cancel-->
+  <string name="sms_mms_failed_cancel_title">Zrušit</string>
+  <!--Original value: Network error. Sending message failed.-->
+  <string name="sms_mms_failed_message_single">Chyba sítě. Odeslání zprávy se nezdařilo.</string>
+  <!--Original value: "Failed messages: %1$s
+Recipients"-->
+  <string name="sms_mms_failed_message_multi">"Neodeslané zprávy: %1$s
+Příjemci"</string>
+  <!--Original value: %1$s - %2$s-->
+  <string name="message_timestamp_format">%1$s - %2$s</string>
+  <!--Original value: Network error. Download will start after connecting to the server-->
+  <string name="sms_mms_download_noservice">Chyba sítě. Stahování začne po připojení k serveru</string>
+  <!--Original value: sip message-->
+  <string name="resend_dialog_sip">sip zpráva</string>
+  <!--Original value: sms-->
+  <string name="resend_dialog_3gp">sms</string>
+  <!--Original value: Network error. sip or sms to resend?-->
+  <string name="resend_dialog_sip_title">Chyba sítě. sip nebo sms znovu odeslat?</string>
+  <!--Original value: Fail to send message-->
+  <string name="sms_mms_failed_dialog_title_single">Nepodařilo se odeslat zprávu</string>
+  <!--Original value: Network error-->
+  <string name="sms_mms_failed_dialog_message_single">Chyba sítě</string>
+  <!--Original value: Fail to send MMS-->
+  <string name="mms_failed_dialog_title_single">Nepodařilo se poslat MMS</string>
+  <!--Original value: SMS center-->
+  <string name="lable_mms_center_number">SMS centrum</string>
+  <!--Original value: Forward-->
+  <string name="long_press_menu_forward">Vpřed</string>
+  <!--Original value: Delete-->
+  <string name="long_press_menu_delete">Vymazat</string>
+  <!--Original value: Copy-->
+  <string name="long_press_menu_copy">Kopie</string>
+  <!--Original value: Open-->
+  <string name="long_press_menu_open">Otevřeno</string>
+  <!--Original value: Save-->
+  <string name="long_press_menu_save">Uložit</string>
+  <!--Original value: Select-->
+  <string name="long_press_menu_sel">Vybrat</string>
+  <!--Original value: Conversation-->
+  <string name="title_message_conversation">Konverzace</string>
+  <!--Original value: Contact details-->
+  <string name="title_coversation_contact_single">Kontaktní údaje</string>
+  <!--Original value: Recipients-->
+  <string name="title_coversation_contact_multi">Příjemci</string>
+  <!--Original value: Unknown-->
+  <string name="unknown">Neznámé</string>
+  <!--Original value: " Plesase tap to view."-->
+  <string name="touch_to_browse">" Plesase klikněte pro zobrazení."</string>
+  <!--Original value: "Can't filter messages from contact."-->
+  <string name="spam_conversation_toast_err_msg">"Nelze filtrovat zprávy od kontaktu."</string>
+  <!--Original value: Downloading multimedia message notification can not delete.-->
+  <string name="cma_drag_delete_mmsnotify_tip">Stahování multimediální zprávu s oznámením nelze odstranit.</string>
+  <!--Original value: Multimedia message notification can not forward.-->
+  <string name="cma_drag_forward_mmsnotify_tip">Oznámení Multimediální zpráva nemůže dopředu.</string>
+  <!--Original value: Multimedia message notification can not copy.-->
+  <string name="cma_drag_copy_mmsnotify_tip">Upozornění Multimediální zprávy nelze kopírovat.</string>
+  <!--Original value: Port message can not forward!-->
+  <string name="cma_drag_forward_smsport_tip">Port zprávu nelze předat!</string>
+  <!--Original value: port message can not copy!-->
+  <string name="cma_drag_copy_smsport_tip">Port zprávu nelze kopírovat!</string>
+  <!--Original value: Send reports-->
+  <string name="group_title_mms_delivery_reports">Odeslat zprávy</string>
+  <!--Original value: Unsuccessful-->
+  <string name="group_status_failed">Neúspěšný</string>
+  <!--Original value: Sent-->
+  <string name="group_status_sended">Odesláno</string>
+  <!--Original value: Received-->
+  <string name="group_status_received">Přijaté</string>
+  <!--Original value: Pending-->
+  <string name="group_status_pending">Až do</string>
+  <!--Original value: sending-->
+  <string name="group_status_sending">odeslání</string>
+  <!--Original value: Not received-->
+  <string name="group_status_delivey_failed">Neobdrželi</string>
+  <!--Original value: (None)-->
+  <string name="group_status_none">(Nic)</string>
+  <!--Original value: Recipients-->
+  <string name="select_recipt_contact_act_title">Příjemci</string>
+  <!--Original value: Can not send Flyme Message-->
+  <string name="cannot_send_flyme_message">Nelze odeslat Flyme zprávu</string>
+  <!--Original value: Cannot send Flyme Message-->
+  <string name="cannot_send_flyme_message_reason_loginout">Nelze odeslat Flyme zprávu</string>
+  <!--Original value: Cannot send Sns Message, please login-->
+  <string name="cannot_send_sns_message_reason_logout">Nelze odeslat SNS zprávu, přihlaste se prosím</string>
+  <!--Original value: Cannot send Flyme Message-->
+  <string name="cannot_send_flyme_message_reason_some_loginout">Nelze odeslat Flyme zprávu</string>
+  <!--Original value: Are ready to send data-->
+  <string name="prepare_mms_pdu_data">Jsou připraveny k odeslání dat</string>
+  <!--Original value: adding recipients-->
+  <string name="prepare_add_recipient">přidávání příjemců</string>
+  <!--Original value: sd card does not exist-->
+  <string name="sd_removed">SD karta neexistuje</string>
+  <!--Original value: Mms send failed!-->
+  <string name="mms_send_failed">Mms poslat selhalo!</string>
+  <!--Original value: Details-->
+  <string name="mms_slide_show_detail_text">Podrobnosti</string>
+  <!--Original value: Adding attachments to be sent-->
+  <string name="prepare_mms_pdu_data_attachment">Přidávání příloh, které mají být odeslány</string>
+  <!--Original value: Select a picture-->
+  <string name="mms_add_attachment_title_for_picture">Vyberte obrázek</string>
+  <!--Original value: Contain sensitive words, and switch operators to send text messages-->
+  <string name="refuse_by_gfw">Obsahují citlivá slova, a přepněte operátorů posílat textové zprávy</string>
+  <!--Original value: Landscape mode-->
+  <string name="pref_title_mms_auto_change_screen">Na šířku</string>
+  <!--Original value: The file format is not supported-->
+  <string name="unsupported_file_format">Formát souboru není podporován</string>
+  <!--Original value: The mass information does not support e-mail address-->
+  <string name="cannot_send_message_for_group_email">Hmotnost Informace nepodporuje e-mailovou adresu</string>
+  <!--Original value: The multiple MMS does not support e-mail address-->
+  <string name="cannot_send_multiMms_for_email">Více MMS nepodporuje e-mailovou adresu</string>
+  <!--Original value: The network message cannot send a multiple MMS-->
+  <string name="cannot_send_multiMms_for_network_message">Zpráva sítě nelze odeslat více MMS</string>
+  <!--Original value: Copy to clipboard-->
+  <string name="copy_to_clip_tip">Kopírovat do schránky</string>
+  <!--Original value: Fail to copy to clipboard-->
+  <string name="copy_to_clip_tip_fail">Nepodařilo se zkopírovat do schránky</string>
+  <!--Original value: Fail to forward message-->
+  <string name="forward_message_fail">Selhat, aby předal zprávu</string>
+  <!--Original value: Camera-->
+  <string name="attach_menu_from_camera">Kamera</string>
+  <!--Original value: Pictures-->
+  <string name="attach_menu_image">Obrázky</string>
+  <!--Original value: File-->
+  <string name="attach_menu_folder">Soubor</string>
+  <!--Original value: Contacts-->
+  <string name="attach_menu_contact">Kontakty</string>
+  <!--Original value: Press to talk-->
+  <string name="recoder_normal">Stiskněte mluvit</string>
+  <!--Original value: Release over-->
+  <string name="recoder_over">Uvolněte přes</string>
+  <!--Original value: Scroll up to cancel-->
+  <string name="recoder_btn_up_tip">Přejděte do zrušení</string>
+  <!--Original value: Release your finger to cancel-->
+  <string name="recoder_btn_release_tip">Uvolněte prst zrušit</string>
+  <!--Original value: more >-->
+  <string name="msg_item_text_more_single_mms">více&gt;</string>
+  <!--Original value: more >-->
+  <string name="msg_item_text_more_mult_mms">více&gt;</string>
+  <!--Original value: "record length: "-->
+  <string name="recoder_time">"Délka záznamu: "</string>
+  <!--Original value: Recording time is too short-->
+  <string name="recoder_time_limit_short">Doba záznamu je příliš krátká</string>
+  <!--Original value: SD not ready-->
+  <string name="sd_mount_err">SD není připraven</string>
+  <!--Original value: SD has ready-->
+  <string name="sd_mount_ok">SD je připraven</string>
+  <!--Original value: Storage disk has to uninstall, Flyme information picture feature is not yet available-->
+  <string name="sd_pull_out">Skladování disk má odinstalovat, Flyme funkce informace o obrázku zatím není k dispozici</string>
+  <!--Original value: Download-->
+  <string name="down_tip">Ke stažení</string>
+  <!--Original value: Re-Send-->
+  <string name="re_send_tip">Znovu Odeslat</string>
+  <!--Original value: Cancel-->
+  <string name="cancel_tip">Zrušit</string>
+  <!--Original value: MB-->
+  <string name="mbyte">MB</string>
+  <!--Original value: Into the phone-->
+  <string name="export_sim_mms">Do telefonu</string>
+  <!--Original value: Recovery-->
+  <string name="reset_spam_mms">Obnova</string>
+  <!--Original value: Interphone-->
+  <string name="menu_record">Interphone</string>
+  <!--Original value: Input-->
+  <string name="menu_input_text">Vstup</string>
+  <!--Original value: Smiley-->
+  <string name="menu_smile_tip">Smiley</string>
+  <!--Original value: Keyboard-->
+  <string name="menu_key_tip">Klávesnice</string>
+  <!--Original value: File has been deleted-->
+  <string name="file_no_exsit">Soubor byl smazán</string>
+  <!--Original value: (Voice)-->
+  <string name="talk_subject">(Zvuk)</string>
+  <!--Original value: (MMS notification)-->
+  <string name="mms_notifi_subject">(Oznámení MMS)</string>
+  <!--Original value: Use the mobile network to send?-->
+  <string name="transaction_net_tip">Poslat pomocí mobilní síť?</string>
+  <!--Original value: Mark as Read-->
+  <string name="unfiltrate">Označit jako přečtené</string>
+  <!--Original value: File has been deleted-->
+  <string name="file_not_exist">Soubor byl smazán</string>
+  <!--Original value: The attachment to be sent is saved on the SD card, which was pulled out. Insert the SD card or remove the attachment to send it!-->
+  <string name="sd_removed_message">Příloha k odeslání je uložen na kartě SD, který byl vytažen ven. Vložte SD kartu nebo odstraňte přílohu poslat jej!</string>
+  <!--Original value: Attachment no longer exists, please delete the attachment and try to send!-->
+  <string name="file_not_exist_message">Příloha již existuje, prosím, odstraňte přílohu a pokuste se odeslat!</string>
+  <!--Original value: the Addressee version is too low, can not receive flyme MMS, please delete attachments-->
+  <string name="flyme_version_lower">Adresát nemůže přijímat flyme MMS, prosím vymažte přílohy</string>
+  <!--Original value: the Addressee party can not receive flyme MMS, please delete attachments-->
+  <string name="flyme_no_regist">Adresát nemůže přijímat flyme MMS, prosím vymažte přílohy</string>
+  <!--Original value: "The recipient's software version does not support flyme intercom"-->
+  <string name="flyme_oldversion_talk">"Verze software příjemce nepodporuje flyme interkom"</string>
+  <!--Original value: "The recipient's software version does not support flyme MMS"-->
+  <string name="flyme_oldversion_mms">"Verze software příjemce nepodporuje flyme MMS"</string>
+  <!--Original value: insufficient storage disk space-->
+  <string name="flyme_disk_limite">Nedostattek místa na disku</string>
+  <!--Original value: insufficient storage disk space, you can not download attachments-->
+  <string name="flyme_disk_not_enough">Nedostatek  místa na disku, nemůžete stahovat přílohy</string>
+  <!--Original value: Can not download flyme MMS, touch to open the document.-->
+  <string name="flyme_disk_limit_notify_description">Nelze stáhnout flyme MMS, stiskněte pro otevření dokumentu.</string>
+  <!--Original value: %2$s messages from %1$s addr-->
+  <string name="notify_hide_content_msg">%2$s zpráv od %1$s ADDR</string>
+  <!--Original value: SMS-->
+  <string name="change_sms_text">SMS</string>
+  <!--Original value: MMS-->
+  <string name="change_mms_text">MMS</string>
+  <!--Original value: Open flyme message-->
+  <string name="open_flyme_toast_tip">Otevřít flyme zprávu</string>
+  <!--Original value: Close flyme message-->
+  <string name="close_flyme_toast_tip">Zavřít flyme zprávu</string>
+  <!--Original value: E-mail address can only receive flyme message-->
+  <string name="flyme_statu_icon_close_when_email_tip">E-mailová adresa může přijímat pouze flyme zprávu</string>
+  <!--Original value: %s new messages-->
+  <string name="unread_msg_count_tip">%s nové zprávy</string>
+  <!--Original value: Delete message?-->
+  <string name="confirm_dialog_delete_conversation">Odstranit zprávu?</string>
+  <!--Original value: Delete selected message?-->
+  <string name="confirm_dialog_delete_conversations">Smazat vybrané zprávy?</string>
+  <!--Original value: Filter number?-->
+  <string name="confirm_dialog_search_spam_address">Filtrovat číslo?</string>
+  <!--Original value: Filter selected number?-->
+  <string name="confirm_dialog_search_spam_addresses">Filtrovat vybrané číslo?</string>
+  <!--Original value: Mark as read?-->
+  <string name="confirm_dialog_search_unfiltrate_msg">Označit jako přečtené?</string>
+  <!--Original value: Re-send a message to %s-->
+  <string name="confirm_dialog_resend_sms_msg">Znovu poslat zprávu na %s</string>
+  <!--Original value: Re-send mass MMS?-->
+  <string name="confirm_dialog_resend_mms_msg">Znovu posílat hromadné zprávy MMS?</string>
+  <!--Original value: Flyme Messaging-->
+  <string name="flyme_mms_send_action_title">Flyme Zprávy</string>
+  <!--Original value: Details-->
+  <string name="mms_slideshow_view_title">Podrobnosti</string>
+  <!--Original value: Receiving MMS-->
+  <string name="mms_noti_rectrive_statu_msg">Příjem MMS</string>
+  <!--Original value: Insufficient disk space-->
+  <string name="flyme_mms_no_space_title">Nedostatek místa na disku</string>
+  <!--Original value: Available space %s-->
+  <string name="flyme_mms_no_space_msg">Volné místo na% s</string>
+  <!--Original value: Clear immediately-->
+  <string name="flyme_mms_no_space_dialog_positive">Okamžitě jasné</string>
+  <!--Original value: (MMS: No subject)-->
+  <string name="mms_no_subject_view">(MMS: Žádný předmět)</string>
+  <!--Original value: (MMS: %s)-->
+  <string name="mms_has_subject_view">(MMS: %s)</string>
+  <!--Original value: (MMS notification)-->
+  <string name="mms_noti_subject_view">(Oznámení MMS)</string>
+  <!--Original value: (Voice notice)-->
+  <string name="mms_talk_noti_subject_view">(Voice oznámení)</string>
+  <!--Original value: (Flyme notice)-->
+  <string name="mms_flyme_noti_subject_view">(Flyme oznámení)</string>
+  <!--Original value: (Direct message notice)-->
+  <string name="mms_dirmsg_noti_subject_view">(Oznámení o přímé zprávy)</string>
+  <!--Original value: (Image)-->
+  <string name="mms_image_subject_view">(Obrázek)</string>
+  <!--Original value: (Video)-->
+  <string name="mms_video_subject_view">(Video)</string>
+  <!--Original value: (Audio)-->
+  <string name="mms_audio_subject_view">(Audio)</string>
+  <!--Original value: (vCard)-->
+  <string name="mms_vcard_subject_view">(VCard)</string>
+  <!--Original value: (File)-->
+  <string name="mms_file_subject_view">(File)</string>
+  <!--Original value: (Location)-->
+  <string name="mms_location_subject_view">(Místo)</string>
+  <!--Original value: (No attachments)-->
+  <string name="mms_none_attachment_subject_view">(Bez příloh)</string>
+  <!--Original value: (%s)-->
+  <string name="mms_flymeorsns_subject_view">(%s)</string>
+  <!--Original value: Mass of information does not support e-mail address and micro-Bo direct message-->
+  <string name="cannot_send_message_for_group_email_and_sns">Množství informací nepodporuje e-mailovou adresu a mikro-Bo přímou zprávu</string>
+  <!--Original value: Mass messaging does not support Weibo direct message.-->
+  <string name="cannot_send_message_for_group_sns">Mass zpráv nepodporuje Weibo přímou zprávu.</string>
+  <!--Original value: Converting to direct message …-->
+  <string name="converting_to_sns_text_message">Převod na přímou zprávu ...</string>
+  <!--Original value: "The direct message attachment's size exceeds the upper limit"-->
+  <string name="exceed_direct_message_size_limitation">"Velikost přímou zprávu přílohu překročí horní mez"</string>
+  <!--Original value: Network failure. Direct message sending failed.-->
+  <string name="error_code_failed_send_sina_msg">Selhání sítě. Přímý odesláním zprávy se nezdařilo.</string>
+  <!--Original value: Direct message sending failed.-->
+  <string name="private_letter_send_failed_msg">Přímý odesláním zprávy se nezdařilo.</string>
+  <!--Original value: Image-->
+  <string name="sns_attachment_picture">Obraz</string>
+  <!--Original value: Video-->
+  <string name="sns_attachment_video">Video</string>
+  <!--Original value: Share audio-->
+  <string name="sns_attachment_voice">Sdílet audio</string>
+  <!--Original value: Multi-frame MMS cannot be sent as direct message.-->
+  <string name="sns_can_not_add_attachment">Multi-frame MMS nelze odeslat jako přímé zprávy.</string>
+  <!--Original value: The network is not connected. Direct message cannot be sent.-->
+  <string name="sns_no_net_error">Síť není připojena. Přímý zprávu nelze odeslat.</string>
+  <!--Original value: Direct message cannot be longer than %s characters-->
+  <string name="sns_text_length_limit">Přímý zpráva nemůže být delší než% s znaků</string>
+  <!--Original value: Sina Weibo account not logged in. Please log in.-->
+  <string name="sns_unlogin_error">Sina Weibo účet není přihlášen prosím přihláste</string>
+  <!--Original value: Receiving location information…-->
+  <string name="get_location_progress_msg">Příjem umístění informationâ € |</string>
+  <!--Original value: Fail to get location-->
+  <string name="get_location_failed_msg">Nepodaří získat místo</string>
+  <!--Original value: My location-->
+  <string name="get_location_menu_msg">Moje poloha</string>
+  <!--Original value: Click to receive%s-->
+  <string name="flyme_mms_recv_size_msg">Klikněte pro přijímání %s</string>
+  <!--Original value: Download complete%s-->
+  <string name="flyme_mms_recv_over_size_msg">Stáhování kompletní %s</string>
+  <!--Original value: Not logged in-->
+  <string name="flyme_account_not_logged">Nepřihlášen</string>
+  <!--Original value: Charge-->
+  <string name="pay_ment_Info_recharge">Poplatek</string>
+  <!--Original value: Repay-->
+  <string name="pay_ment_Info_repayment">Znovu zaplatit</string>
+  <!--Original value: Pay-->
+  <string name="pay_ment_Info_fee">Zaplatit</string>
+  <!--Original value: %s via Alipay-->
+  <string name="alipay_account_name">%s pomocí Alipay</string>
+  <!--Original value: %s via Lakala-->
+  <string name="lakala_account_name">%s pomocí Lakala</string>
+  <!--Original value: Alipay-->
+  <string name="alipay_account_name_other">Alipay</string>
+  <!--Original value: Lakala-->
+  <string name="lakala_account_name_other">Lakala</string>
+  <!--Original value: Pay Now-->
+  <string name="alipay_pay_for_other">Zaplatit teď</string>
+  <!--Original value: Repay Now-->
+  <string name="alipay_repayment">Znovu zaplatit teď</string>
+  <!--Original value: Check Now-->
+  <string name="alipay_check">Zkontrolovat nyní</string>
+  <!--Original value: SMS scenario payment-->
+  <string name="pref_title_pay_from_sms">Platba pomocí SMS</string>
+  <!--Original value: Smart identification SMS payment scenario-->
+  <string name="pref_summary_pay_from_sms">Inteligentní scénář platba identifikační SMS</string>
+  <!--Original value: Download Alipay Wallet?-->
+  <string name="download_alipay_title">Stáhněte si Alipay peněženka?</string>
+  <!--Original value: You need to install Alipay Wallet for this feature to be enabled.-->
+  <string name="download_alipay_content">Musíte nainstalovat Alipay Peněženka pro tuto funkci musí být povoleno.</string>
+  <!--Original value: Ali Pay-->
+  <string name="pref_title_pay_from_sms_alipay">Ali Pay</string>
+  <!--Original value: Lakala Pay-->
+  <string name="pref_title_pay_from_sms_lakala">Lakala Pay</string>
+  <!--Original value: Download Lakala?-->
+  <string name="download_lakala_title">Stáhnout Lakala?</string>
+  <!--Original value: You need to install Lakala for this feature to be enabled.-->
+  <string name="download_lakala_content">Musíte nainstalovat Lakala pro tuto funkci musí být povoleno.</string>
+  <!--Original value: Clear-->
+  <string name="clear_dialogue">Vyčistit</string>
+  <!--Original value: Network error, Please try again later-->
+  <string name="no_network_for_send_receive">Chyba sítě, zkuste to prosím znovu později</string>
+  <!--Original value: Choose payment method-->
+  <string name="select_recharge_mode">Vyberte si způsob platby</string>
+  <!--Original value: New message popup-->
+  <string name="msg_popup_show_label">Nová zpráva okno</string>
+  <!--Original value: New message popup reminder-->
+  <string name="pref_title_msg_popup_show">Nová zpráva popup připomínka</string>
+  <!--Original value: Except for strangers-->
+  <string name="pref_summary_msg_popup_show">S výjimkou cizinců</string>
+  <!--Original value: Cancel-->
+  <string name="msg_popup_btn_cancel">Zrušit</string>
+  <!--Original value: Send-->
+  <string name="msg_popup_btn_reply">Odeslat</string>
+  <!--Original value: Location-->
+  <string name="get_location_menu">Umístění</string>
+  <!--Original value: Cannot find relavite location-->
+  <string name="location_search_fail">Nelze najít relavite místo</string>
+  <!--Original value: Search location-->
+  <string name="location_search_hint">Umístění Hledat</string>
+  <!--Original value: Locate again-->
+  <string name="reset_location">Vyhledat znovu</string>
+  <!--Original value: Select a city-->
+  <string name="extra_city_title">Vyberte si město</string>
+  <!--Original value: Screenshotting-->
+  <string name="get_location_bitmap">Screenshotting</string>
+  <!--Original value: Obtaining the location url-->
+  <string name="get_location_url">Získání umístění url</string>
+  <!--Original value: "You haven't select the location to send the message."-->
+  <string name="not_choose_location">"Nemáte vyberte umístění pro odeslání zprávy."</string>
+  <!--Original value: Network error-->
+  <string name="location_net_fail">Chyba sítě</string>
+  <!--Original value: Fail to load the map, please try again later!-->
+  <string name="location_key_fail">Nepodařilo se načíst mapu, zkuste to prosím znovu později!</string>
+  <!--Original value: %s meter-->
+  <string name="location_far_meter">%s metr</string>
+  <!--Original value: %s kilometer-->
+  <string name="location_far_kilometer">%s kilometr</string>
+  <!--Original value: Your position-->
+  <string name="location_current">Vaše pozice</string>
+  <!--Original value: Fail to screenshoot your position, please try again!-->
+  <string name="location_getmap_timeout">Nepodařilo se screenshoot svou pozici, prosím zkuste to znovu!</string>
+  <!--Original value: Fail to get the url of your position, please try again!-->
+  <string name="location_geturl_timeout">Nepodaří získat adresu URL vaší pozici, prosím zkuste to znovu!</string>
+  <!--Original value: Location-->
+  <string name="location_suggest_title">Umístění</string>
+  <!--Original value: The location information in unavailable-->
+  <string name="location_no_detials_msg">Informace o umístění v dispozici</string>
+  <!--Original value: Unable to get location information-->
+  <string name="location_failed_detials_msg">Nelze získat informace o poloze</string>
+  <!--Original value: Unknown-->
+  <string name="location_unknow_distance">Neznámé</string>
+  <!--Original value: Obtaining your location-->
+  <string name="location_auto_locate">Získání svou polohu</string>
+  <!--Original value: Obtaining location information-->
+  <string name="reverse_move">Získání informací o poloze</string>
+  <!--Original value: Location service is not enable-->
+  <string name="location_service_title">Lokalita služba neumožňuje</string>
+  <!--Original value: Sending location needs locate service，please enable it-->
+  <string name="location_service_message">Odeslání potřeby umístění vyhledejte serviceï ¼ Œplease mohla</string>
+  <!--Original value: Locate unsuccess-->
+  <string name="auto_locate_fail_title">Vyhledávání neůspěšné</string>
+  <!--Original value: Continue to locate?-->
+  <string name="auto_locate_fail_content">Pokračovat v hledání?</string>
+  <!--Original value: Exit-->
+  <string name="exit">Konec</string>
+  <!--Original value: Continue-->
+  <string name="go_ahead">Pokračovat</string>
+  <!--Original value: Searching %s-->
+  <string name="location_search_pro">Vyhledávání %s</string>
+  <!--Original value: Switch back to the speaker from the handset-->
+  <string name="audio_mode_change_to_normal">Přepněte zpět do reproduktoru z telefonu</string>
+  <!--Original value: Contacts-->
+  <string name="recipient_autocompose_text_title">Kontakty</string>
+  <!--Original value: Unable to record now-->
+  <string name="can_not_record_current">Nelze nahrávat teď</string>
+  <!--Original value: Recording fails-->
+  <string name="record_failed">Nahrávání selže</string>
+  <!--Original value: Please input the receiver!-->
+  <string name="has_no_recipient">Zadejte, prosím, přijímač!</string>
+  <!--Original value: Message read by %s-->
+  <string name="read_report_toast_body">Číst zprávu %s</string>
+  <!--Original value: Message not read by %s-->
+  <string name="read_report_toast_body_fail">Zpráva nebyla přečtena% s</string>
+  <!--Original value: Flyme message memory-->
+  <string name="pref_title_key_manage_message_storage">Flyme paměť zpráv</string>
+  <!--Original value: Manage photos and files related to Flyme messages-->
+  <string name="pref_summary_key_manage_message_storage">Správa fotografií a souborů souvisejících s Flyme zpráv</string>
+  <!--Original value: Quick reply-->
+  <string name="quick_reply_menu">Rychlá odpověď</string>
+  <!--Original value: Edit messages for quick reply-->
+  <string name="pref_summary_edit_quick_reply">Upravit zprávy pro rychlou odpověď</string>
+  <!--Original value: Has reach the input limit-->
+  <string name="quick_reply_reach_input_limit">Má dostat vstupní limitu</string>
+  <!--Original value: Whether need to save the new content?-->
+  <string name="quick_reply_save_alert">Zda je třeba uložit nový obsah?</string>
+  <!--Original value: Save failed, please input the content-->
+  <string name="quick_reply_save_fail">Uložení se nezdařilo, prosíme Zadejte obsah</string>
+  <!--Original value: No APN specified on the device.-->
+  <string name="no_apn">Ne APN uvedeno na přístroji.</string>
+  <!--Original value: "Your phone's storage is full"-->
+  <string name="storage_warning_title">\"Úložiště telefonu je plná\</string>
+  <!--Original value: "You won't receive new SMS/MMS messages"-->
+  <string name="storage_warning_content">\"Nebudete přijímat nové zprávy SMS / MMS\</string>
+  <!--Original value: Sending disabled-->
+  <string name="sending_disabled_not_default_app">Odeslání zdravotně postižené</string>
+  <!--Original value: SMS Disabled-->
+  <string name="pref_title_sms_disabled">SMS Vypnuto</string>
+  <!--Original value: Touch to make Messaging your default SMS app-->
+  <string name="pref_summary_sms_disabled">Dotkněte se, aby Zprávy výchozí SMS aplikace</string>
+  <!--Original value: SMS Enabled-->
+  <string name="pref_title_sms_enabled">SMS Povoleno</string>
+  <!--Original value: Touch to change your default SMS app-->
+  <string name="pref_summary_sms_enabled">Dotkněte se změnit výchozí SMS aplikace</string>
+  <!--Original value: MMS Wakeup-->
+  <string name="label_mms_send_outbox_msg">MMS buzení</string>
+  <!--Original value: Sends out all MMSs from the outbox to the network-->
+  <string name="desc_mms_send_outbox_msg">Odešle se všechny MMS zprávy ze složky Pošta k odeslání do sítě</string>
+  <!--Original value: "Can't compose. Not default SMS app."-->
+  <string name="compose_disabled_toast">\"Nelze psát. Není výchozí SMS aplikaci.\</string>
+  <!--Original value: Messaging is not your SMS app-->
+  <string name="banner_sms_promo_title_initial">Zprávy není vaše SMS app</string>
+  <!--Original value: %s is your SMS app-->
+  <string name="banner_sms_promo_title_application">% S je vaše SMS app</string>
+  <!--Original value: You can change this in Settings-->
+  <string name="banner_sms_promo_message">Toto nastavení můžete změnit v menu Nastavení</string>
+  <!--Original value: Larger Font Size-->
+  <string name="pref_title_larger_text_size">Větší velikost písma</string>
+  <!--Original value: Person-->
+  <string name="message_person_label">Osoba</string>
+  <!--Original value: Notice-->
+  <string name="message_notice_label">Oznámení</string>
+  <!--Original value: Favorite-->
+  <string name="message_favorite_label">Oblíbený</string>
+  <!--Original value: un_favorite-->
+  <string name="message_unfavorite_label">un_favorite</string>
+  <!--Original value: Mark all as read-->
+  <string name="mark_all_as_read_title">Označit vše jako přečtené</string>
+  <!--Original value: Favorited-->
+  <string name="has_favorited">Oblíbeno</string>
+  <!--Original value: Mark as Top-->
+  <string name="top">Označit jako Nahoru</string>
+  <!--Original value: Cancel Top-->
+  <string name="cancel_top">Cancel Na začátek</string>
+  <!--Original value: +%1$s-->
+  <string name="more_string">% 1 $ s</string>
+  <!--Original value: Copy email address-->
+  <string name="copy_email">E-mailová adresa Copy</string>
+  <!--Original value: Copy phone number-->
+  <string name="copy_number">Telefonní číslo Copy</string>
+  <!--Original value: Access Google Play Services-->
+  <string name="common_google_play_services_install_title">Přístup Google Play Služby</string>
+  <!--Original value: This app cannot run without Google Play Services. You need to install the services on your phonefirst.-->
+  <string name="common_google_play_services_install_text_phone">Tato aplikace nelze spustit, aniž by Google Play služeb. Musíte nainstalovat služby na phonefirst.</string>
+  <!--Original value: This app cannot run without Google Play Services. You need to install the services on your tablet first.-->
+  <string name="common_google_play_services_install_text_tablet">Tato aplikace nelze spustit, aniž by Google Play služeb. Musíte nainstalovat služby na tabletu jako první.</string>
+  <!--Original value: Access Google Play Services-->
+  <string name="common_google_play_services_install_button">Přístup Google Play Služby</string>
+  <!--Original value: Enable Google Play Services-->
+  <string name="common_google_play_services_enable_title">Povolení Google Play Služby</string>
+  <!--Original value: "This app won't work unless you enable Google Play Services."-->
+  <string name="common_google_play_services_enable_text">\"Tato aplikace nebude fungovat, pokud povolíte Google Play služeb.\</string>
+  <!--Original value: Enable Google Play Services-->
+  <string name="common_google_play_services_enable_button">Povolení Google Play Služby</string>
+  <!--Original value: Update Google Play Services-->
+  <string name="common_google_play_services_update_title">Aktualizace Google Play Služby</string>
+  <!--Original value: This app cannot run unless you update Google Play Services.-->
+  <string name="common_google_play_services_update_text">Tato aplikace nelze spustit, pokud si aktualizovat Google Play služeb.</string>
+  <!--Original value: Network Error-->
+  <string name="common_google_play_services_network_error_title">Chyba sítě</string>
+  <!--Original value: A data connection is required to connect to Google Play services.-->
+  <string name="common_google_play_services_network_error_text">Je nutné datové připojení k připojení k Play služeb Google.</string>
+  <!--Original value: Invalid Account-->
+  <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+  <!--Original value: The specified account does not exist on this device. Please choose a different account.-->
+  <string name="common_google_play_services_invalid_account_text">Uvedený účet neexistuje na tomto zařízení. Prosím, vyberte si jiný účet.</string>
+  <!--Original value: Unknown issue with Google Play services.-->
+  <string name="common_google_play_services_unknown_issue">Neznámý problém s Play služeb Google.</string>
+  <!--Original value: Google Play services-->
+  <string name="common_google_play_services_unsupported_title">Google Play služeb</string>
+  <!--Original value: Google Play Services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.-->
+  <string name="common_google_play_services_unsupported_text">Google Play služby, které některé z vašich aplikací spolehnout, není podporována vaším zařízením. Obraťte se na výrobce o pomoc.</string>
+  <!--Original value: The date on the device appears to be incorrect. Please check the date on the device.-->
+  <string name="common_google_play_services_unsupported_date_text">Datum na zařízení se zdá být nesprávné. Prosím, zkontrolujte datum na zařízení.</string>
+  <!--Original value: Update-->
+  <string name="common_google_play_services_update_button">Aktualizovat</string>
+  <!--Original value: Sign in-->
+  <string name="common_signin_button_text">Přihlásit se</string>
+  <!--Original value: Sign in with Google-->
+  <string name="common_signin_button_text_long">Přihlásit se pomocí Google</string>
+  <!--Original value: An application attempted to use a wrong version of Google Play Services.-->
+  <string name="auth_client_using_bad_version_title">Aplikace se pokusila použít nesprávnou verzi Google Play služeb.</string>
+  <!--Original value: An application requires Google Play Services to be enabled.-->
+  <string name="auth_client_needs_enabling_title">Aplikace vyžaduje aplikaci Google Play služeb, které mají být povoleny.</string>
+  <!--Original value: An application requires installation of Google Play Services.-->
+  <string name="auth_client_needs_installation_title">Aplikace vyžaduje instalaci Google Play služeb.</string>
+  <!--Original value: An application requires updating Google Play Services.-->
+  <string name="auth_client_needs_update_title">Aplikace vyžaduje aktualizaci Google Play služeb.</string>
+  <!--Original value: Google Play services error-->
+  <string name="auth_client_play_services_err_notification_msg">Google play služeb chybu</string>
+  <!--Original value: Requested by %1$s-->
+  <string name="auth_client_requested_by_msg">Žádost o% 1 $ s</string>
+  <!--Original value: MeizuCommon-->
+  <string name="mc_app_name">MeizuCommon</string>
+  <!--Original value: Settings-->
+  <string name="mc_action_settings">Nastavení</string>
+  <!--Original value: Hello world!-->
+  <string name="mc_hello_world">Ahoj všichni!</string>
+  <!--Original value: Ok-->
+  <string name="mc_yes">Ok</string>
+  <!--Original value: Cancel-->
+  <string name="mc_cancel">Zrušit</string>
+  <!--Original value: Hour-->
+  <string name="mc_hour">Hodina</string>
+  <!--Original value: Minute-->
+  <string name="mc_minute">Minuta</string>
+  <!--Original value: Second-->
+  <string name="mc_second">Druhý</string>
+  <!--Original value: More-->
+  <string name="more_item_label">Více</string>
+  <!--Original value: MO-->
+  <string name="mc_monday">Po</string>
+  <!--Original value: TU-->
+  <string name="mc_tuesday">Út</string>
+  <!--Original value: WE-->
+  <string name="mc_wednesday">St</string>
+  <!--Original value: TH-->
+  <string name="mc_thursday">Čt</string>
+  <!--Original value: FR-->
+  <string name="mc_friday">Pá</string>
+  <!--Original value: SA-->
+  <string name="mc_saturday">So</string>
+  <!--Original value: SU-->
+  <string name="mc_sunday">Ne</string>
+  <!--Original value: Only once-->
+  <string name="mc_never">Pouze jednou</string>
+  <!--Original value: Every day-->
+  <string name="mc_every_day">Každý den</string>
+  <!--Original value: Workday-->
+  <string name="mc_working_day">Pracovní den</string>
+  <!--Original value: Weekend-->
+  <string name="mc_weekend">Víkend</string>
+  <!--Original value: Decline-->
+  <string name="mc_description_target_decline">Pokles</string>
+  <!--Original value: Answer-->
+  <string name="mc_description_target_answer">Odpověď</string>
+</resources>

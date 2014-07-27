@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Vyhledávání v tabletu</string>
+    <string name="search_phone_or_tablet">Prohledat tablet</string>
+    <string name="no_summons_found">"V tabletu nebyly
+nalezeny žádné výsledky."</string>
+    <string name="icing_manage_storage_summary">Ve vašem tabletu zrychlujeme vyhledávání tím, že aplikacím poskytujeme vyhledávač, který mohou používat.</string>
+</resources>

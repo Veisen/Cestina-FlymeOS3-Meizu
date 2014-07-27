@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_style">
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="button_white_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_advance" parent="@style/button_style">
+        <item name="android:background">@drawable/button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_land_for_advance" parent="@style/button_style">
+        <item name="android:background">@drawable/button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_small_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_small_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_mid_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_mid_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_advance_for_small_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_advance_for_small_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_advance_for_mid_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_white_style_for_advance_for_mid_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_white_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_orange_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_orange</item>
+    </style>
+    <style name="button_gray_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_gray</item>
+    </style>
+    <style name="button_gray_large_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_gray_large</item>
+    </style>
+    <style name="button_function_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_function</item>
+    </style>
+    <style name="button_equal_style" parent="@style/button_style">
+        <item name="android:background">@drawable/button_equal</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_equal_style_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/button_equal_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_equal_style_for_mid_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_equal</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_equal_style_for_mid_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/mid_button_equal_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_equal_style_for_small_panel" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_equal</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="button_equal_style_for_small_panel_for_land" parent="@style/button_style">
+        <item name="android:background">@drawable/little_button_equal_for_land</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="StartActivityTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowSoftInputMode">stateUnchanged|adjustResize</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light" />
+</resources>

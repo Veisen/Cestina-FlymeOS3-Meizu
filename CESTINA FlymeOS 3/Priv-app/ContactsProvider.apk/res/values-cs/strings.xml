@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Android Core Apps-->
+  <string name="sharedUserLabel">Android Core Apps</string>
+  <!--Original value: Contacts Storage-->
+  <string name="app_label">Úložiště kontaktů</string>
+  <!--Original value: Contacts-->
+  <string name="provider_label">Kontakty</string>
+  <!--Original value: Upgrading contacts database.-->
+  <string name="upgrade_msg">Aktualizace databáze kontaktů.</string>
+  <!--Original value: Contacts upgrade needs more memory.-->
+  <string name="upgrade_out_of_memory_notification_ticker">Aktualizace kontaktu vyžaduje více paměti</string>
+  <!--Original value: Upgrading storage for contacts-->
+  <string name="upgrade_out_of_memory_notification_title">Nedostatek paměti pro aktualizaci kontaktu</string>
+  <!--Original value: Tap here to complete the upgrade.-->
+  <string name="upgrade_out_of_memory_notification_text">Výběrem této možnosti dokončíte aktualizaci.</string>
+  <!--Original value: Contacts-->
+  <string name="default_directory">Kontakty</string>
+  <!--Original value: Other-->
+  <string name="local_invisible_directory">Jiné</string>
+  <!--Original value: Access all voicemails-->
+  <string name="read_write_all_voicemail_label">Přístup ke všem hlasovým zprávám</string>
+  <!--Original value: Allows the app to store and retrieve all voicemails that this device can access.-->
+  <string name="read_write_all_voicemail_description">Umožňuje aplikaci ukládat a načítat všechny hlasové zprávy, ke kterým má toto zařízení přístup.</string>
+  <!--Original value: "Voicemail from "-->
+  <string name="voicemail_from_column">"Hlasová zpráva od uživatele "</string>
+  <!--Original value: Copy contact database-->
+  <string name="debug_dump_title">Kopírovat databázi kontaktů</string>
+  <!--Original value: You need to: 1) make a copy of your database which includes all contact information and all call logs to the internal storage, and 2) email it. Remember to delete the copy asap after you have copied it from the device or the email is received.-->
+  <string name="debug_dump_database_message">Tímto provedete 1) Kopii všech Vašich kontaktů včetně informací o nich a záznamů o hovorech na interní paměť telefonu. 2) Odešlete je e-mailem. Z důvodu Vaší bezpečnosti nezapomeňte tuto zálohu ihned po odeslání a ověření smazat z telefonu!</string>
+  <!--Original value: Delete now-->
+  <string name="debug_dump_delete_button">Vymazat</string>
+  <!--Original value: Start-->
+  <string name="debug_dump_start_button">Začít</string>
+  <!--Original value: Choose a program to send your file-->
+  <string name="debug_dump_email_sender_picker">Odeslat přes</string>
+  <!--Original value: Contacts Db attached-->
+  <string name="debug_dump_email_subject">Databáze kontaktů je připojena</string>
+  <!--Original value: Attached is my contact database with all my contact information. Be careful when handling it!-->
+  <string name="debug_dump_email_body">V příloze je má databáze všech kontaktů a informací o nich.</string>
+</resources>

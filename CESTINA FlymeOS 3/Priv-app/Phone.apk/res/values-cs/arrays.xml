@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp_call_restriction_item_SHORT">
+        <item>Povolit vše</item>
+        <item>Pouze kontakty</item>
+        <item>Blokovat vše</item>
+    </string-array>
+    <string-array name="sp_ratmode_NORMAL">
+        <item>Automaticky</item>
+        <item>Pouze WCDMA</item>
+        <item>GSM</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Při režimu vibrací</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Podle sítě</item>
+        <item>Skrýt číslo</item>
+        <item>Zobrazit číslo</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / CDMA</item>
+        <item>Pouze EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>CDMA/EvDo automaticky</item>
+        <item>GSM / WCDMA – automaticky</item>
+        <item>Pouze WCDMA</item>
+        <item>Pouze GSM</item>
+        <item>GSM / WCDMA – upřednostňováno</item>
+        <item>"GSM / WCDMA / LTE  – automaticky"</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angličtina</item>
+        <item>francouzština</item>
+        <item>Španělština</item>
+        <item>japonština</item>
+        <item>korejština</item>
+        <item>čínština</item>
+        <item>hebrejština</item>
+    </string-array>
+    <string-array name="sp_network_mode_choices_NORMAL">
+        <item>GSM/WCDMA (automatický režim)</item>
+        <item>Pouze WCDMA</item>
+        <item>Pouze GSM</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Pouze domácí</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="sp_auto_answer_entries_NORMAL">
+        <item>Vypnout Automatickou odpověď</item>
+        <item>1 sekunda</item>
+        <item>3 sekundy</item>
+        <item>5 sekund</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY vypnuto</item>
+        <item>Úplný režim TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normální</item>
+        <item>Dlouhé</item>
+    </string-array>
+    <string-array name="sp_auto_retry_entries_NORMAL">
+        <item>Vyp.</item>
+        <item>10 sekund</item>
+        <item>30 sekund</item>
+        <item>60 s</item>
+    </string-array>
+    <string-array name="sp_data_access_NORMAL">
+        <item>Pro všechny tipy</item>
+        <item>Pouze pro tento výlet</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_rgs">
+        <item>GSM / HSPA – automaticky</item>
+        <item>Pouze HSPA</item>
+        <item>Pouze GSM</item>
+    </string-array>
+    <string-array name="sp_cf_wating_time_value_NORMAL">
+        <item>5 sekund</item>
+        <item>10 sekund</item>
+        <item>15 sekund</item>
+        <item>20 sekund</item>
+        <item>25 sekund</item>
+        <item>30 sekund</item>
+    </string-array>
+    <string-array name="sp_ltecdma_networkmode">
+        <item>LTE/CDMA</item>
+        <item>Pouze CDMA</item>
+    </string-array>
+    <string-array name="sprint_system_select_choices">
+        <item>Pouze domácí</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="sp_rad_mode_dialog_item_skt_NORMAL">
+        <item>Volání do Koreje</item>
+        <item>Volání do atd.</item>
+    </string-array>
+    <string-array name="sp_rad_mode_dialog_item_kt_NORMAL">
+        <item>Volání do Koreje</item>
+        <item>Volání do zahraničí</item>
+        <item>Místní volání</item>
+    </string-array>
+    <string-array name="sp_rad_mode_dialog_item_lgu_case1_NORMAL">
+        <item>Volání do Koreje</item>
+        <item>Místní volání</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Služba synchronizace Vám umožní synchronizovat Váš telefon.</string>
+    <string name="app_name">Služba synchronizace</string>
+    <string name="error_network">Chyba sítě</string>
+    <string name="error_server_not_found">Server nebyl nalezen</string>
+    <string name="error_auth">Chybné uživatelské jméno nebo heslo</string>
+    <string name="error_device_not_found">Informace o telefonu nebyly na serveru nalezeny</string>
+    <string name="error_server">Chyba serveru</string>
+    <string name="error_server_busy">Server je zaneprázdněn. Zkuste to později znova.</string>
+    <string name="error_cancal">Synchronizace byla zrušena.</string>
+    <string name="error_read_server_response">Selhalo načtení dat ze serveru.</string>
+    <string name="error_write_server_request">Selhalo odeslání dat na server.</string>
+    <string name="error_server_connection_request">Selhalo připojení k serveru.</string>
+    <string name="error_unknown">Synchronizace selhala</string>
+    <string name="begin_sync">Začátek synchronizace</string>
+    <string name="begin_auth">Ověřování...</string>
+    <string name="auth_passed">Ověření bylo úspěšné</string>
+    <string name="begin_send_source">Odesílání %s</string>
+    <string name="end_send_source">Odeslání %s bylo dokončeno</string>
+    <string name="begin_receive_source">Přijímání %s</string>
+    <string name="end_receive_source">Příjem %s byl dokončen</string>
+    <string name="source_lable_contact">Kontakty</string>
+    <string name="source_lable_note">Poznámka</string>
+    <string name="source_lable_calendar">Kalendář</string>
+    <string name="source_lable_unknown">Neznámý</string>
+</resources>

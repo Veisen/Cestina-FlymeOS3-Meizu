@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mc_description_target_answer">Odpověď</string>
+    <string name="mc_description_target_decline">Odmítnout</string>
+    <string name="more_item_label">Více</string>
+</resources>

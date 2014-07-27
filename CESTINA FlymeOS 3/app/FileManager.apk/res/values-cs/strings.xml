@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Documents-->
+  <string name="app_name">Dokumenty</string>
+  <!--Original value: New folder-->
+  <string name="app_new_folder">Nová složka</string>
+  <!--Original value: Rename-->
+  <string name="app_rename">Přejmenovat</string>
+  <!--Original value: Back-->
+  <string name="back">Zpět</string>
+  <!--Original value: Cancel-->
+  <string name="cancel">Zrušit</string>
+  <!--Original value: OK-->
+  <string name="ok">OK</string>
+  <!--Original value: Save-->
+  <string name="save">Uložit</string>
+  <!--Original value: Share-->
+  <string name="share">Sdílet</string>
+  <!--Original value: Options-->
+  <string name="option">Volby</string>
+  <!--Original value: Edit-->
+  <string name="edit">Upravit</string>
+  <!--Original value: Setting-->
+  <string name="setting">Nastavení</string>
+  <!--Original value: Share/Edit-->
+  <string name="share_edit">Sdílet/Upravit</string>
+  <!--Original value: You can share 100 files at most.-->
+  <string name="share_limit">Můžete sdílet maximálně 100 souborů.</string>
+  <!--Original value: Device-->
+  <string name="device">Zařízení</string>
+  <!--Original value: Unable to find an app to open this file.-->
+  <string name="none_available_program">Pro otevření tohoto souboru nelze najít žádný program.</string>
+  <!--Original value: New folder-->
+  <string name="new_folder">Nová složka</string>
+  <!--Original value: Sort-->
+  <string name="sort">Seřadit</string>
+  <!--Original value: Are you sure to delete ?-->
+  <string name="delete_single">Opravdu smazat?</string>
+  <!--Original value: The shortcut to the file %s will be deleted-->
+  <string name="delete_folder_tip">Zástupce souboru %s bude smazán</string>
+  <!--Original value: "Are you sure to delete these "-->
+  <string name="delete_multi">"Opravdu chcete smazat těchto "</string>
+  <!--Original value: " files?"-->
+  <string name="files">" souborů?"</string>
+  <!--Original value: Sort files-->
+  <string name="sort_files">Seřadit soubory</string>
+  <!--Original value: Deleting-->
+  <string name="deleting">Mazání...</string>
+  <!--Original value: Deleted-->
+  <string name="deleted">Smazáno</string>
+  <!--Original value: Choose-->
+  <string name="choose">Zvolte</string>
+  <!--Original value: Send-->
+  <string name="send">Odeslat</string>
+  <!--Original value: Open with-->
+  <string name="openwith">Otevřít pomocí</string>
+  <!--Original value: Share with-->
+  <string name="sendwith">Sdílet pomocí</string>
+  <!--Original value: "Filename "-->
+  <string name="file_exists_1">"Název souboru "</string>
+  <!--Original value: %s already exists-->
+  <string name="file_exists_2">" již existuje"</string>
+  <!--Original value: Renaming failed-->
+  <string name="err_rename">Chyba přejmenování</string>
+  <!--Original value: Renaming successful-->
+  <string name="opetation_done">Přejmenování bylo úspěšné</string>
+  <!--Original value: Fail to delete it due to an error.-->
+  <string name="err_delete">" chyba při mazání"</string>
+  <!--Original value: " moving error"-->
+  <string name="err_move">" chyba při přesunu"</string>
+  <!--Original value: " copying error"-->
+  <string name="err_copy">" chyba při kopírování"</string>
+  <!--Original value: “ saving error”-->
+  <string name="err_save">" chyba při ukládání"</string>
+  <!--Original value: " moving canceled"-->
+  <string name="cancel_move">" přesouvání zrušeno"</string>
+  <!--Original value: " copying canceled"-->
+  <string name="cancel_copy">" kopírování zrušeno"</string>
+  <!--Original value: Preparing-->
+  <string name="prepare">Příprava</string>
+  <!--Original value: Copying-->
+  <string name="copying">"Kopírování: "</string>
+  <!--Original value: Moving-->
+  <string name="moving">"Přesun: "</string>
+  <!--Original value: Saving-->
+  <string name="saving">Ukládání:</string>
+  <!--Original value: Copying file-->
+  <string name="copy_file">Kopírování souboru...</string>
+  <!--Original value: Moving file-->
+  <string name="move_file">Přesouvání souboru...</string>
+  <!--Original value: Saving file-->
+  <string name="save_file">Ukládání souboru...</string>
+  <!--Original value: from-->
+  <string name="from">z</string>
+  <!--Original value: " to "-->
+  <string name="to">" do "</string>
+  <!--Original value: Already exists.-->
+  <string name="exists">Již existuje.</string>
+  <!--Original value: Insufficient storage space-->
+  <string name="none_space">Nedostatek volného místa</string>
+  <!--Original value: "SD card write error: "-->
+  <string name="sd_write_error">"Chyba při zápisu na kartu SD: "</string>
+  <!--Original value: Copy-->
+  <string name="copy">Kopírovat</string>
+  <!--Original value: Move to-->
+  <string name="save_title_1_move">"Přesunout "</string>
+  <!--Original value: Copy to-->
+  <string name="save_title_1_copy">"Kopírovat "</string>
+  <!--Original value: Save to-->
+  <string name="save_title_1_save">"Uložit "</string>
+  <!--Original value: Sort by name-->
+  <string name="sort_by_name">Řadit podle názvu</string>
+  <!--Original value: Sort by size-->
+  <string name="sort_by_size">Řadit podle velikosti</string>
+  <!--Original value: Sort by date-->
+  <string name="sort_by_date">Seřadit podle data</string>
+  <!--Original value: Sort by type-->
+  <string name="sort_by_type">Seřadit podle typu</string>
+  <!--Original value: Move-->
+  <string name="edit_move">Přesunout</string>
+  <!--Original value: Copy-->
+  <string name="edit_copy">Kopírovat</string>
+  <!--Original value: Rename-->
+  <string name="edit_rename">Přejmenovat</string>
+  <!--Original value: Encrypt-->
+  <string name="edit_encrypt">Šifrovat</string>
+  <!--Original value: Move to Vault-->
+  <string name="edit_move2coffer">Přesunout do trezoru</string>
+  <!--Original value: Open with-->
+  <string name="edit_open">Otevřít pomocí</string>
+  <!--Original value: Details-->
+  <string name="edit_details">Detaily</string>
+  <!--Original value: Decrypt-->
+  <string name="edit_decrypt">Dešifrovat</string>
+  <!--Original value: Share to Network Neighborhood-->
+  <string name="edit_wifi_share">Sdílet na Síť</string>
+  <!--Original value: Cancel Wi-Fi share-->
+  <string name="edit_cancel_share">Zrušit sdílení Wi-Fi</string>
+  <!--Original value: Enter filename-->
+  <string name="input_name">Zadejte název souboru</string>
+  <!--Original value: Filename must not contain invalid characters |\\/:*?\"<>-->
+  <string name="unacceptable_char">Název souboru nemůže obsahovat žádný z následujících znaků: |\\/:*?\"&lt;&gt;</string>
+  <!--Original value: Filename already exists.-->
+  <string name="folder_exists">Název souboru již existuje.</string>
+  <!--Original value: Error creating folder-->
+  <string name="err_create_fold">Chyba při vytvoření</string>
+  <!--Original value: Filename cannot be blank.-->
+  <string name="empty_name">Název souboru nemůže být prázdný.</string>
+  <!--Original value: Overwrite-->
+  <string name="overwrite">Přepsat</string>
+  <!--Original value: Skip-->
+  <string name="jump">Přeskočit</string>
+  <!--Original value: Persist-->
+  <string name="persist" />
+  <!--Original value: Merge-->
+  <string name="merge">Spojit</string>
+  <!--Original value: Apply it to remaining %d items-->
+  <string name="keep_all_1">Stejná operace pro všechny</string>
+  <!--Original value: items-->
+  <string name="keep_all_2">položek</string>
+  <!--Original value: Apply it to all folders-->
+  <string name="keep_dir_all">Použít pro všechny složky</string>
+  <!--Original value: Apply it to all files-->
+  <string name="keep_file_all">Použít pro všechny soubory</string>
+  <!--Original value: Continue-->
+  <string name="rename_continue">Pokračovat</string>
+  <!--Original value: Done-->
+  <string name="finish">Hotovo</string>
+  <!--Original value: Next-->
+  <string name="next">Další</string>
+  <!--Original value: Type-->
+  <string name="file_type">Typ</string>
+  <!--Original value: Name-->
+  <string name="file_name">Název</string>
+  <!--Original value: Folder-->
+  <string name="type_dir">Složka</string>
+  <!--Original value: Enter type-->
+  <string name="input_type">Zadejte typ</string>
+  <!--Original value: Open-->
+  <string name="open">Otevřít</string>
+  <!--Original value: Unnamed file-->
+  <string name="untitled">Soubor bez názvu</string>
+  <!--Original value: SD card unmounted or not present-->
+  <string name="nosdcard">Nyní nemůže být karta SD odebrána</string>
+  <!--Original value: Extract to-->
+  <string name="extract_title">Extrahovat do...</string>
+  <!--Original value: Extract-->
+  <string name="extract">Extrahovat</string>
+  <!--Original value: Select from Gallery-->
+  <string name="select_from_photo">Vybrat z galerie</string>
+  <!--Original value: " files"-->
+  <string name="delete_tip">" souborů"</string>
+  <!--Original value: %1$d successful, %2$d already exists-->
+  <string name="rename_exist">%1$d úspěšných, %2$d existovalo!</string>
+  <!--Original value: %1$d successful, %2$d failed-->
+  <string name="rename_fail">%1$d úspěšných, %2$d selhalo!</string>
+  <!--Original value: Attachments exceed the 50MB size limit-->
+  <string name="email_fail">Celková velikost příloh překračuje limit 50MB</string>
+  <!--Original value: Total :%1$s Available :%2$s-->
+  <string name="storage_size">Celkem: %1$s, dostupných: %2$s</string>
+  <!--Original value: Unmounted USB Storage-->
+  <string name="unmount_sdcard">Odpojené USB úložiště</string>
+  <!--Original value: Select all-->
+  <string name="select_all">Vybrat vše</string>
+  <!--Original value: Select None-->
+  <string name="select_none">Zrušit výběr</string>
+  <!--Original value: Disk-->
+  <string name="sdcard_name">Disk</string>
+  <!--Original value: Delete damanged favorite?-->
+  <string name="link_delete">Odstranit poškozené oblíbené soubory?</string>
+  <!--Original value: Favorite damaged : %s-->
+  <string name="link_err">Poškozené oblíbené : %s</string>
+  <!--Original value: Remove favorite-->
+  <string name="link_remove">Odstranit oblíbené</string>
+  <!--Original value: Disk-->
+  <string name="doc_list_name">Disk</string>
+  <!--Original value: shortcut already exists-->
+  <string name="shortcut_exist">zástupce již existuje</string>
+  <!--Original value: Encrypted OK-->
+  <string name="tip_encrypted">Zašifrováno</string>
+  <!--Original value: Decrypted OK-->
+  <string name="tip_decrypted">Dešifrováno</string>
+  <!--Original value: Add system password?-->
+  <string name="add_psw">Přidat systémové heslo?</string>
+  <!--Original value: Encrypting files needs system password-->
+  <string name="tip_needpsw">Zašifrované soubory potřebují systémové heslo</string>
+  <!--Original value: No password is set-->
+  <string name="tip_unset_password">Heslo není zvoleno</string>
+  <!--Original value: Encrypting files needs password-->
+  <string name="tip_need_set_password">Zašifrované soubory potřebují heslo</string>
+  <!--Original value: Delete-->
+  <string name="menu_tip_delete">Smazat</string>
+  <!--Original value: Refresh-->
+  <string name="menu_tip_refresh">Obnovit</string>
+  <!--Original value: %1$s out of %2$s is available.-->
+  <string name="size_info">%1$s z %2$s je k dispozici.</string>
+  <!--Original value: Encrypting-->
+  <string name="encrypting">Šifruji</string>
+  <!--Original value: Decrypting-->
+  <string name="decrypting">Dešifruji</string>
+  <!--Original value: " / "-->
+  <string name="folder_div">" / "</string>
+  <!--Original value: %s has no mountpoint-->
+  <string name="no_mountpoint">%s nemá mountpoint</string>
+  <!--Original value: Unnamed folder-->
+  <string name="default_folder_name">Nepojmenovaná složka</string>
+  <!--Original value: All devices-->
+  <string name="share_expand">Všechna zařízení</string>
+  <!--Original value: Wi-Fi Devices-->
+  <string name="wifi_share">Wi-Fi zařízení</string>
+  <!--Original value: Wi-Fi file share-->
+  <string name="menu_wifi">Wi-Fi sdílení souborů</string>
+  <!--Original value: Wi-Fi file share-->
+  <string name="popup_wifi_server_login">Wi-Fi sdílení souborů</string>
+  <!--Original value: Other users can access your shared files with the account and password.-->
+  <string name="popup_wifi_tip" />
+  <!--Original value: Connecting to %s-->
+  <string name="popup_wifi_client_login">Připojování k %s</string>
+  <!--Original value: WLAN file share enabled-->
+  <string name="close_wifi_share_title">Sdílení souboru pomocí WLAN zapnuto</string>
+  <!--Original value: Username:-->
+  <string name="close_wifi_share_device_name">Uživatelské jméno:</string>
+  <!--Original value: WLAN:-->
+  <string name="close_wifi_share_wifi_name">WLAN:</string>
+  <!--Original value: IP:-->
+  <string name="close_wifi_share_wifi_ip">IP:</string>
+  <!--Original value: user-->
+  <string name="hint_user">uživatel</string>
+  <!--Original value: Password (optional)-->
+  <string name="hint_psw">Heslo (volitelně)</string>
+  <!--Original value: password-->
+  <string name="hint_psw_login">heslo</string>
+  <!--Original value: Wi-Fi file sharing-->
+  <string name="in_wifi_share">Sdílení souborů pomocí Wi-Fi</string>
+  <!--Original value: Canceling Wi-Fi file share-->
+  <string name="cancel_wifi_share">Zrušení sdílení souborů pomocí Wi-Fi</string>
+  <!--Original value: Shared OK-->
+  <string name="tip_wifi_shared">Sdílení OK</string>
+  <!--Original value: Canceling share OK-->
+  <string name="tip_wifi_unshared">Zrušení sdílení OK</string>
+  <!--Original value: Wi-Fi Connecting-->
+  <string name="tip_wifi_connecting">Wi-Fi připojování</string>
+  <!--Original value: Wi-Fi Loading-->
+  <string name="tip_wifi_loading">Wi-Fi Načítání</string>
+  <!--Original value: Close Wi-Fi file share?-->
+  <string name="close_wifi_share">Zavřít Wi-Fi sdílení souborů?</string>
+  <!--Original value: Wi-Fi is not available-->
+  <string name="tip_wifi_not_available">Wi-Fi není k dispozici</string>
+  <!--Original value: Wi-Fi is not connected-->
+  <string name="tip_wifi_not_connected">Wi-Fi není připojena</string>
+  <!--Original value: Wi-Fi is opening-->
+  <string name="tip_wifi_is_opening">Wi-Fi se otevírá</string>
+  <!--Original value: Connection failed-->
+  <string name="tip_fail_connect">Připojení se nezdařilo</string>
+  <!--Original value: Wi-Fi file share is closed-->
+  <string name="tip_wifi_closed">Wi-Fi sdílení souborů je uzavřen</string>
+  <!--Original value: Display machine resource cannot be deleted, thank you!-->
+  <string name="meizu_shop_delete_not_allow_message">Display machine resource cannot be deleted, thank you!</string>
+  <!--Original value: Compress-->
+  <string name="menu_zip">Komprimovat</string>
+  <!--Original value: Compress to-->
+  <string name="dialog_title_zip">Komprimovat do</string>
+  <!--Original value: Compressed file-->
+  <string name="dialog_hint_zip">Komprimovaný soubor</string>
+  <!--Original value: Compressing OK-->
+  <string name="tip_zip_ok">Komprese OK</string>
+  <!--Original value: Compressing Failed-->
+  <string name="tip_zip_fail">Komprese se nezdařila</string>
+  <!--Original value: Compressing-->
+  <string name="dialog_zipping">Komprimuji</string>
+  <!--Original value: Password cannot be blank-->
+  <string name="unacceptable_password">Heslo nesmí být prázdné</string>
+  <!--Original value: Stop-->
+  <string name="stop">Stop</string>
+  <!--Original value: Disable-->
+  <string name="stop_use">Zakázat</string>
+  <!--Original value: Update System?-->
+  <string name="update_system_message">Aktualizace systému?</string>
+  <!--Original value: Moved to \"%s\"-->
+  <string name="move2safe_success">Přesunuto do \"%s\"</string>
+  <!--Original value: Vault-->
+  <string name="safe_box_name">Trezor</string>
+  <!--Original value: Photo-->
+  <string name="safe_box_photo_name">Fotografie</string>
+  <!--Original value: Video-->
+  <string name="safe_box_video_name">Video</string>
+  <!--Original value: System Update-->
+  <string name="update_system_title">Aktualizace systému</string>
+  <!--Original value: Power %s-->
+  <string name="update_system_title_battry">Baterie %s</string>
+  <!--Original value: Device will restart immediately, please ensure enough power.-->
+  <string name="update_system_text">Zařízení se okamžitě restartuje, ujistěte se prosím, že máte dostatek energie.</string>
+  <!--Original value: Power is lower than 20%, can not be updated-->
+  <string name="update_system_text_battry">Stav baterie je nižší než 20%, nelze aktualizovat</string>
+  <!--Original value: Clear userdata-->
+  <string name="clear_userdata_text">Vyčistit userdata</string>
+  <!--Original value: Domain (optional)-->
+  <string name="domain_hint">Doména (volitelné)</string>
+  <!--Original value: Connect to the server-->
+  <string name="connect_server_text">Připojení k serveru</string>
+  <!--Original value: Disconnect from the server-->
+  <string name="disconnect_server_text">Odpojení od serveru</string>
+  <!--Original value: Remove-->
+  <string name="remove_server_text">Odstranit</string>
+  <!--Original value: Connect-->
+  <string name="connect_text">Připojit</string>
+  <!--Original value: Remember passwords-->
+  <string name="remember_password">Pamatovat hesla</string>
+  <!--Original value: IP address-->
+  <string name="ip_address_hint">IP adresa</string>
+  <!--Original value: Connected %s-->
+  <string name="connected_text">Připojeno %s</string>
+  <!--Original value: Tap to be disconnected-->
+  <string name="connected_sub_text">Klepněte pro odpojení</string>
+  <!--Original value: Disconnect-->
+  <string name="disconnected_text">Odpojit</string>
+  <!--Original value: Wi-Fi is not connected，disconnect-->
+  <string name="retry_connect_after_wifi_ok">Wi-Fi není připojena, odpojeno</string>
+  <!--Original value: Network Neighborhood-->
+  <string name="network_neighborhood">Okolní síť</string>
+  <!--Original value: Server-->
+  <string name="header_server">Server</string>
+  <!--Original value: Network Neighborhood-->
+  <string name="header_wifidevice">Okolní síť</string>
+  <!--Original value: Refreshing-->
+  <string name="action_refresh_text">Obnovuji</string>
+  <!--Original value: No network device-->
+  <string name="no_scan_wifidevice_text">Žádné síťové zařízení</string>
+  <!--Original value: Illegal username. The username comprises letters, numbers, space or underline.-->
+  <string name="username_charset">Nelegální uživatelské jméno. Uživatelské jméno se skládá z písmena, čísla, mezery nebo podtržení.</string>
+  <!--Original value: Illegal password. The password comprises letters, numbers or underline-->
+  <string name="password_charset">Nelegální heslo. Heslo se skládá z písmen, číslic nebo podtržení</string>
+  <!--Original value: Search-->
+  <string name="search_text">Hledat</string>
+  <!--Original value: All-->
+  <string name="search_select_text_all">Vše</string>
+  <!--Original value: Photo-->
+  <string name="search_select_text_photo">Fotografie</string>
+  <!--Original value: Music-->
+  <string name="search_select_text_music">Hudba</string>
+  <!--Original value: Video-->
+  <string name="search_select_text_video">Video</string>
+  <!--Original value: Text-->
+  <string name="search_select_text_doc">Text</string>
+  <!--Original value: Apk-->
+  <string name="search_select_text_apk">Apk</string>
+  <!--Original value: Files-->
+  <string name="file">Soubory</string>
+  <!--Original value: Browse the directory-->
+  <string name="go_to_folder">Procházet adresář</string>
+  <!--Original value: No result-->
+  <string name="no_search_result">Žádný výsledek</string>
+  <!--Original value: Searching-->
+  <string name="searching">Vyhledávání</string>
+  <!--Original value: Decompressing-->
+  <string name="extracting">Dekomprese</string>
+  <!--Original value: Invalid file!-->
+  <string name="error_file_path">Neplatný soubor!</string>
+  <!--Original value: The file is damaged, unable to decompress it.-->
+  <string name="extract_error">Soubor je poškozen, nejde jej dekomprimovat.</string>
+  <!--Original value: This type is not supported-->
+  <string name="unsupport">Tento typ není podporován</string>
+  <!--Original value: File already exists. Do you want to replace it?-->
+  <string name="note_replace_all">Soubor již existuje. Chcete jej nahradit?</string>
+  <!--Original value: OK-->
+  <string name="replace_ok">OK</string>
+  <!--Original value: Cancel-->
+  <string name="replace_cancel">Zrušit</string>
+  <!--Original value: Wrong password, decompression cancelled-->
+  <string name="password_failed">Chybné heslo, dekomprese zrušena</string>
+  <!--Original value: Password-->
+  <string name="extract_dialog_psw_hint">Heslo</string>
+  <!--Original value: Confirm-->
+  <string name="extract_password_dialog_confirm">Potvrdit</string>
+  <!--Original value: Cancel-->
+  <string name="extract_password_dialog_cancel">Zrušit</string>
+  <!--Original value: Stopping, please wait-->
+  <string name="extract_extracting_cancel">Zastavuji, prosím vyčkejte</string>
+  <!--Original value: The file is too large, unable to decompress it.-->
+  <string name="extract_file_too_large">Soubor je příliš velký, nelze jej rozbalit.</string>
+  <!--Original value: Refreshing...-->
+  <string name="extract_updating">Obnovování...</string>
+  <!--Original value: Decompress \"%s\"-->
+  <string name="extract_password_dialog_tip">Rozbalit \"%s\"</string>
+  <!--Original value: Wrong password-->
+  <string name="extract_password_dialog_fail_toast">Chybné heslo</string>
+  <!--Original value: Decompression stopped-->
+  <string name="extract_extracting_canceled">Dekomprese zastavena</string>
+  <!--Original value: no permission to move-->
+  <string name="no_permission_to_move">Nemáte oprávnění přesunout</string>
+  <!--Original value: no permission to copy-->
+  <string name="no_permission_to_copy">Nemáte oprávnění kopírovat</string>
+  <!--Original value: no permission to delete-->
+  <string name="no_permission_to_delete">Nemáte oprávnění smazat</string>
+  <!--Original value: The file name is too long-->
+  <string name="file_limit_error">Název souboru je příliš dlouhý</string>
+  <!--Original value: Size：-->
+  <string name="size_title">Velikost:</string>
+  <!--Original value: Content：-->
+  <string name="content_title">Obsah:</string>
+  <!--Original value: %s folders, %s files-->
+  <string name="content_text" formatted="false">%s složky, %s soubory</string>
+  <!--Original value: %s folders-->
+  <string name="only_folder_text">%s složky</string>
+  <!--Original value: %s files-->
+  <string name="only_file_text">%s soubory</string>
+  <!--Original value: Empty-->
+  <string name="empty_folder_text">Prázdný</string>
+  <!--Original value: Format：-->
+  <string name="extension_title">Format：</string>
+  <!--Original value: Modify time：-->
+  <string name="modify_time_title">Upravit čas:</string>
+  <!--Original value: yyyy-MM-dd hh:mm-->
+  <string name="date_format">dd-MM-yyyy hh:mm</string>
+  <!--Original value: Computing-->
+  <string name="detail_computing">Výpočetní</string>
+  <!--Original value: MeizuCommon-->
+  <string name="mc_app_name">MeizuCommon</string>
+  <!--Original value: Settings-->
+  <string name="mc_action_settings">Nastavení</string>
+  <!--Original value: Hello world!-->
+  <string name="mc_hello_world">Ahoj všichni!</string>
+  <!--Original value: Ok-->
+  <string name="mc_yes">Ok</string>
+  <!--Original value: Cancel-->
+  <string name="mc_cancel">Zrušit</string>
+  <!--Original value: Hour-->
+  <string name="mc_hour">Hodina</string>
+  <!--Original value: Minute-->
+  <string name="mc_minute">Minuta</string>
+  <!--Original value: Second-->
+  <string name="mc_second">Sekunda</string>
+  <!--Original value: More-->
+  <string name="more_item_label">Více</string>
+  <!--Original value: MO-->
+  <string name="mc_monday">Po</string>
+  <!--Original value: TU-->
+  <string name="mc_tuesday">Út</string>
+  <!--Original value: WE-->
+  <string name="mc_wednesday">St</string>
+  <!--Original value: TH-->
+  <string name="mc_thursday">Čt</string>
+  <!--Original value: FR-->
+  <string name="mc_friday">Pá</string>
+  <!--Original value: SA-->
+  <string name="mc_saturday">So</string>
+  <!--Original value: SU-->
+  <string name="mc_sunday">Ne</string>
+  <!--Original value: Only once-->
+  <string name="mc_never">Pouze jednou</string>
+  <!--Original value: Every day-->
+  <string name="mc_every_day">Každý den</string>
+  <!--Original value: Workday-->
+  <string name="mc_working_day">Pracovní den</string>
+  <!--Original value: Weekend-->
+  <string name="mc_weekend">Víkend</string>
+  <!--Original value: Decline-->
+  <string name="mc_description_target_decline">Zamítnout</string>
+  <!--Original value: Answer-->
+  <string name="mc_description_target_answer">Odpověď</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ary">
+        <item>test</item>
+        <item>Položka 2</item>
+    </string-array>
+    <string-array name="frequency_ary">
+        <item>Každých 15 minut</item>
+        <item>Každých 30 minut</item>
+        <item>Každou hodinu</item>
+        <item>Každé 2 hodiny</item>
+        <item>Každých 6 hodin</item>
+    </string-array>
+    <string-array name="frequency_ary_debug">
+        <item>Každých 15 minut</item>
+        <item>Každých 30 minut</item>
+        <item>Každou hodinu</item>
+        <item>Každé 2 hodiny</item>
+        <item>Každých 6 hodin</item>
+        <item>Každé 2 minuty</item>
+    </string-array>
+    <string-array name="paw_protect_ary">
+        <item>Můj oblíbený film</item>
+        <item>Moje motto</item>
+        <item>Moje narozeniny</item>
+        <item>Vlastní</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>Slabé</item>
+        <item>Uspokojivé</item>
+        <item>Dobré</item>
+        <item>Silné</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Zvolte bezpečností otázku</item>
+        <item>První telefonní číslo?</item>
+        <item>Jméno nejlepšího kamaráda z dětství?</item>
+        <item>Jméno prvního učitele?</item>
+        <item>Jméno šéfa v první práci?</item>
+        <item>SPZ auta?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Název</item>
+        <item>Datum</item>
+        <item>Typ</item>
+        <item>Velikost</item>
+    </string-array>
+    <string-array name="edit_item">
+        <item>Kopírovat</item>
+        <item>Přesunout</item>
+        <item>Přejmenovat</item>
+        <item>E-mail</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="share_item">
+        <item>E-mail</item>
+        <item>Bluetooth</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_single">
+        <item>Přepsat</item>
+        <item>Přeskočit</item>
+    </string-array>
+    <string-array name="edit_collsion_choice_multi">
+        <item>Přepsat</item>
+        <item>Přeskočit</item>
+        <item>Přepsat vše</item>
+    </string-array>
+</resources>
